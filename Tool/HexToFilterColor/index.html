@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="jquery/jquery.min.js"></script>
+    <title>Đổi màu Hex của hình ảnh qua màu Filter của file svg</title>
+</head>
+<body>
+    <table>
+        <tr valign="top">
+          <td width="100%">
+            <fieldset>
+              <p>
+                <label>Mã màu Hex: </label> <input class="target" type="text" placeholder="target hex" value="#00a4d6"/>
+              </p>
+              <button class="execute">Run</button>
+            </fieldset>
+            <p>Màu hiển thị trong đơn vị Pixel <code>background-color</code>:</p>
+            <div class="pixel realPixel"></div>
+      
+            <p>Màu hiển thị trong đơn vị Pixcel <code>filter</code>:</p>
+            <div class="pixel filterPixel"></div>
+      
+            <p class="filterDetail"></p>
+            <p class="lossDetail"></p>
+          </td>
+          <td>
+           
+          </td>
+        </tr>
+      </table>    
+      <script src="script.js"></script>  
+</body>
+</html>

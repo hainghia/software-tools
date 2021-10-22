@@ -1,0 +1,8 @@
+{
+	"Fixbug bang var_dump": {
+	  "scope": "html",
+	  "prefix": "dump_var",
+	  "body": ["<?php echo 'kukun-end'.'<pre>';var_dump(\"$1var\");echo '</pre>';exit;  /* Debug Code trong html */ ?>"],
+	  "description": "Fixbug bang var_dump"
+	}
+}

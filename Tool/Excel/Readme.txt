@@ -1,0 +1,2 @@
+- Mở file: Show Link Ngành Nghề, theo điều khiện của ID trong trang excel.txt
+- Tìm và thay thế vị trí đầu tiên trong bảng excel: ví dụ "A1" -> "B16"

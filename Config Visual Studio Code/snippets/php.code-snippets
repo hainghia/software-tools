@@ -1,0 +1,10 @@
+{
+	"tag php": {
+	  "scope": "html,php",
+	  "prefix": "php",
+	  "body": [
+		  "<?php $1 ?>"
+		],
+	  "description": "Thẻ PHP Nhanh"
+	}
+}
