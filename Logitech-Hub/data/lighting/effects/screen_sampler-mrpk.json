@@ -1,0 +1,49 @@
+{
+  "screen_sampler_info": {
+    "region_map": {
+      "106e41b4-acd5-4320-b4a7-ed5dec5c7f30": {
+        "id": "106e41b4-acd5-4320-b4a7-ed5dec5c7f30",
+        "top": 0.3,
+        "left": 0.3,
+        "right": 0.3,
+        "bottom": 0.3,
+        "color_function": "AVERAGE_COLOR",
+        "name": "CENTER"
+      }
+    },
+    "lighting_slots": {
+      "info_map": {
+        "PERKEY_COSMETIC": {
+          "per_key_map": {
+            "color_code_map": {
+              "1": {
+                "tag": "106e41b4-acd5-4320-b4a7-ed5dec5c7f30"
+              },
+              "2": {
+                "tag": "106e41b4-acd5-4320-b4a7-ed5dec5c7f30"
+              },
+              "3": {
+                "tag": "106e41b4-acd5-4320-b4a7-ed5dec5c7f30"
+              },
+              "4": {
+                "tag": "106e41b4-acd5-4320-b4a7-ed5dec5c7f30"
+              },
+              "5": {
+                "tag": "106e41b4-acd5-4320-b4a7-ed5dec5c7f30"
+              },
+              "6": {
+                "tag": "106e41b4-acd5-4320-b4a7-ed5dec5c7f30"
+              },
+              "7": {
+                "tag": "106e41b4-acd5-4320-b4a7-ed5dec5c7f30"
+              },
+              "8": {
+                "tag": "106e41b4-acd5-4320-b4a7-ed5dec5c7f30"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

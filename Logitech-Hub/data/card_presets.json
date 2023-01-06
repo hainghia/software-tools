@@ -1,0 +1,573 @@
+{
+  "categories": {
+    "Mouse": {
+      "presets": [
+        {
+          "name": "PRIMARY_CLICK",
+          "platform": "ANY",
+          "macro": {
+            "type": "MOUSE",
+            "mouse": {
+              "action": "BUTTON",
+              "hidUsage": 1
+            }
+          }
+        },
+        {
+          "name": "SECONDARY_CLICK",
+          "macro": {
+            "type": "MOUSE",
+            "mouse": {
+              "action": "BUTTON",
+              "hidUsage": 2
+            }
+          }
+        },
+        {
+          "name": "MIDDLE_CLICK",
+          "macro": {
+            "type": "MOUSE",
+            "mouse": {
+              "action": "BUTTON",
+              "hidUsage": 3
+            }
+          }
+        },
+        {
+          "name": "BACK",
+          "platform": "WIN",
+          "macro": {
+            "type": "MOUSE",
+            "mouse": {
+              "action": "BUTTON",
+              "hidUsage": 4
+            }
+          }
+        },
+        {
+          "name": "MOUSE_BUTTON_4",
+          "platform": "OSX",
+          "macro": {
+            "type": "MOUSE",
+            "mouse": {
+              "action": "BUTTON",
+              "hidUsage": 4
+            }
+          }
+        },
+        {
+          "name": "FORWARD",
+          "platform": "WIN",
+          "macro": {
+            "type": "MOUSE",
+            "mouse": {
+              "action": "BUTTON",
+              "hidUsage": 5
+            }
+          }
+        },
+        {
+          "name": "MOUSE_BUTTON_5",
+          "platform": "OSX",
+          "macro": {
+            "type": "MOUSE",
+            "mouse": {
+              "action": "BUTTON",
+              "hidUsage": 5
+            }
+          }
+        },
+        {
+          "name": "BUTTON_DOUBLE_CLICK",
+          "macro": {
+            "type": "MOUSE",
+            "mouse": {
+              "action": "BUTTON_DOUBLE_CLICK"
+            }
+          }
+        },
+        {
+          "name": "WHEEL_UP",
+          "macro": {
+            "type": "MOUSE",
+            "mouse": {
+              "action": "WHEEL_UP"
+            }
+          }
+        },
+        {
+          "name": "WHEEL_DOWN",
+          "macro": {
+            "type": "MOUSE",
+            "mouse": {
+              "action": "WHEEL_DOWN"
+            }
+          }
+        },
+        {
+          "name": "WHEEL_LEFT",
+          "macro": {
+            "type": "MOUSE",
+            "mouse": {
+              "action": "WHEEL_LEFT"
+            }
+          }
+        },
+        {
+          "name": "WHEEL_RIGHT",
+          "macro": {
+            "type": "MOUSE",
+            "mouse": {
+              "action": "WHEEL_RIGHT"
+            }
+          }
+        },
+        {
+          "name": "DPI_UP",
+          "macro": {
+            "type": "MOUSE",
+            "mouse": {
+              "action": "DPI_UP"
+            }
+          }
+        },
+        {
+          "name": "DPI_DOWN",
+          "macro": {
+            "type": "MOUSE",
+            "mouse": {
+              "action": "DPI_DOWN"
+            }
+          }
+        },
+        {
+          "name": "DPI_SHIFT",
+          "macro": {
+            "type": "MOUSE",
+            "mouse": {
+              "action": "DPI_SHIFT"
+            }
+          }
+        },
+        {
+          "name": "DPI_GO_TO_SHIFT",
+          "macro": {
+            "type": "MOUSE",
+            "mouse": {
+              "action": "DPI_GO_TO_SHIFT"
+            }
+          }
+        },
+        {
+          "name": "DPI_CYCLE",
+          "macro": {
+            "type": "MOUSE",
+            "mouse": {
+              "action": "DPI_CYCLE"
+            }
+          }
+        }
+      ]
+    },
+    "Device": {
+      "presets": [
+        {
+          "name": "G_SHIFT",
+          "macro": {
+            "type": "DEVICE",
+            "device": {
+              "action": "G_SHIFT"
+            }
+          }
+        },
+        {
+          "name": "G_SHIFT_DEFAULT",
+          "macro": {
+            "type": "DEVICE",
+            "device": {
+              "action": "G_SHIFT_DEFAULT"
+            }
+          }
+        },
+        {
+          "name": "PROFILE_CYCLE",
+          "macro": {
+            "type": "DEVICE",
+            "device": {
+              "action": "PROFILE_CYCLE"
+            }
+          }
+        },
+        {
+          "name": "BATTERY_LIFE",
+          "macro": {
+            "type": "DEVICE",
+            "device": {
+              "action": "BATTERY_LIFE"
+            }
+          }
+        }
+      ]
+    },
+    "Media": {
+      "presets": [
+        {
+          "name": "MEDIA_PLAY_PAUSE",
+          "macro": {
+            "type": "MEDIA",
+            "media": {
+              "usage": "PLAY_PAUSE"
+            }
+          }
+        },
+        {
+          "name": "MEDIA_STOP",
+          "macro": {
+            "type": "MEDIA",
+            "media": {
+              "usage": "STOP"
+            }
+          }
+        },
+        {
+          "name": "PREVIOUS_TRACK",
+          "macro": {
+            "type": "MEDIA",
+            "media": {
+              "usage": "PREVIOUS_TRACK"
+            }
+          }
+        },
+        {
+          "name": "NEXT_TRACK",
+          "macro": {
+            "type": "MEDIA",
+            "media": {
+              "usage": "NEXT_TRACK"
+            }
+          }
+        },
+        {
+          "name": "VOLUME_UP",
+          "macro": {
+            "type": "MEDIA",
+            "media": {
+              "usage": "VOLUME_UP"
+            }
+          }
+        },
+        {
+          "name": "VOLUME_DOWN",
+          "macro": {
+            "type": "MEDIA",
+            "media": {
+              "usage": "VOLUME_DOWN"
+            }
+          }
+        },
+        {
+          "name": "VOLUME_MUTE",
+          "macro": {
+            "type": "MEDIA",
+            "media": {
+              "usage": "MUTE"
+            }
+          }
+        }
+      ]
+    },
+    "Audio": {
+      "presets": [
+        {
+          "name": "MUTE_SPEAKERS",
+          "macro": {
+            "type": "AUDIO",
+            "audio": {
+              "action": "MUTE_SPEAKERS"
+            }
+          }
+        },
+        {
+          "name": "MUTE_MICROPHONE",
+          "macro": {
+            "type": "AUDIO",
+            "audio": {
+              "action": "MUTE_MICROPHONE"
+            }
+          }
+        },
+        {
+          "name": "MICROPHONE_GAIN_INCREASE",
+          "macro": {
+            "type": "AUDIO",
+            "audio": {
+              "action": "MICROPHONE_GAIN_INCREASE"
+            }
+          }
+        },
+        {
+          "name": "MICROPHONE_GAIN_DECREASE",
+          "macro": {
+            "type": "AUDIO",
+            "audio": {
+              "action": "MICROPHONE_GAIN_DECREASE"
+            }
+          }
+        },
+        {
+          "name": "SIDETONE_INCREASE",
+          "macro": {
+            "type": "AUDIO",
+            "audio": {
+              "action": "SIDETONE_INCREASE"
+            }
+          }
+        },
+        {
+          "name": "SIDETONE_DECREASE",
+          "macro": {
+            "type": "AUDIO",
+            "audio": {
+              "action": "SIDETONE_DECREASE"
+            }
+          }
+        },
+        {
+          "name": "BASS_INCREASE",
+          "macro": {
+            "type": "AUDIO",
+            "audio": {
+              "action": "BASS_INCREASE"
+            }
+          }
+        },
+        {
+          "name": "BASS_DECREASE",
+          "macro": {
+            "type": "AUDIO",
+            "audio": {
+              "action": "BASS_DECREASE"
+            }
+          }
+        },
+        {
+          "name": "TREBLE_INCREASE",
+          "macro": {
+            "type": "AUDIO",
+            "audio": {
+              "action": "TREBLE_INCREASE"
+            }
+          }
+        },
+        {
+          "name": "TREBLE_DECREASE",
+          "macro": {
+            "type": "AUDIO",
+            "audio": {
+              "action": "TREBLE_DECREASE"
+            }
+          }
+        },
+        {
+          "name": "ADVANCED_EQUALIZER_TOGGLE",
+          "macro": {
+            "type": "AUDIO",
+            "audio": {
+              "action": "ADVANCED_EQ_TOGGLE"
+            }
+          }
+        },
+        {
+          "name": "SURROUND_TOGGLE",
+          "macro": {
+            "type": "AUDIO",
+            "audio": {
+              "action": "SURROUND_TOGGLE"
+            }
+          }
+        },
+        {
+          "name": "EQUALIZER_CYCLE",
+          "macro": {
+            "type": "AUDIO",
+            "audio": {
+              "action": "EQ_CYCLE"
+            }
+          }
+        },
+        {
+          "name": "AUDIO_OUTPUT_CYCLE",
+          "macro": {
+            "type": "AUDIO",
+            "audio": {
+              "action": "SPEAKER_DEVICE_CYCLE"
+            }
+          }
+        },
+        {
+          "name": "AUDIO_INPUT_CYCLE",
+          "macro": {
+            "type": "AUDIO",
+            "audio": {
+              "action": "MICROPHONE_DEVICE_CYCLE"
+            }
+          }
+        },
+        {
+          "name": "MAKE_DEFAULT_AUDIO_DEVICE",
+          "macro": {
+            "audio": {
+              "action": "MAKE_DEFAULT_SOURCE",
+              "audioDeviceOnly": true
+            },
+            "type": "AUDIO"
+          }
+        }
+      ]
+    },
+    "Editing": {
+      "presets": [
+        {
+          "name": "SYSTEM_OSX_COPY",
+          "keystroke": [
+            "LGUI",
+            "C"
+          ],
+          "platform": "OSX"
+        },
+        {
+          "name": "SYSTEM_WINDOWS_COPY",
+          "keystroke": [
+            "LCTRL",
+            "C"
+          ],
+          "platform": "WIN"
+        },
+        {
+          "name": "SYSTEM_OSX_CUT",
+          "keystroke": [
+            "LGUI",
+            "X"
+          ],
+          "platform": "OSX"
+        },
+        {
+          "name": "SYSTEM_WINDOWS_CUT",
+          "keystroke": [
+            "LCTRL",
+            "X"
+          ],
+          "platform": "WIN"
+        },
+        {
+          "name": "SYSTEM_OSX_PASTE",
+          "keystroke": [
+            "LGUI",
+            "V"
+          ],
+          "platform": "OSX"
+        },
+        {
+          "name": "SYSTEM_WINDOWS_PASTE",
+          "keystroke": [
+            "LCTRL",
+            "V"
+          ],
+          "platform": "WIN"
+        },
+        {
+          "name": "SYSTEM_OSX_UNDO",
+          "keystroke": [
+            "LGUI",
+            "Z"
+          ],
+          "platform": "OSX"
+        },
+        {
+          "name": "SYSTEM_WINDOWS_UNDO",
+          "keystroke": [
+            "LCTRL",
+            "Z"
+          ],
+          "platform": "WIN"
+        },
+        {
+          "name": "SYSTEM_OSX_REDO",
+          "keystroke": [
+            "LSHIFT",
+            "LGUI",
+            "C"
+          ],
+          "platform": "OSX"
+        },
+        {
+          "name": "SYSTEM_WINDOWS_REDO",
+          "keystroke": [
+            "LCTRL",
+            "Y"
+          ],
+          "platform": "WIN"
+        }
+      ]
+    },
+    "Lighting": {
+      "presets": [
+        {
+          "name": "CYCLE_FIRMWARE_BRIGHTNESS",
+          "macro": {
+            "type": "LIGHTING",
+            "lighting": {
+              "action": "CYCLE_FIRMWARE_BRIGHTNESS",
+              "firmwareLightingAction": true
+            }
+          }
+        },
+        {
+          "name": "CYCLE_SOFTWARE_BRIGHTNESS",
+          "macro": {
+            "type": "LIGHTING",
+            "lighting": {
+              "action": "CYCLE_SOFTWARE_BRIGHTNESS",
+              "firmwareLightingAction": false
+            }
+          }
+        }
+      ]
+    },
+    "OS": {
+      "presets": [
+        {
+          "name": "LOCK_SCREEN_OSX",
+          "keystroke": [
+            "LGUI",
+            "LCTRL",
+            "Q"
+          ],
+          "platform": "OSX"
+        },
+        {
+          "name": "LOCK_SCREEN_WIN",
+          "keystroke": [
+            "LGUI",
+            "L"
+          ],
+          "platform": "WIN"
+        }
+      ]
+    },
+    "GHUB": {
+      "presets": [
+        {
+          "name": "CYCLE_GHUB_PROFILE",
+          "macro": {
+            "type": "GHUB",
+            "ghub": {
+              "action": "CYCLE_GHUB_PROFILE"
+            }
+          },
+          "platform": "ANY"
+        }
+      ]
+    }
+  }
+}

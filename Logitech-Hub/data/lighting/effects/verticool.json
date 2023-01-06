@@ -1,0 +1,5128 @@
+{
+  "keyframeInfo": {
+    "direction": "BOUNCE",
+    "keyframeMap": {
+      "0": {
+        "curveType": "LINEAR",
+        "length": 8,
+        "lightingSlots": {
+          "infoMap": {
+            "PERKEY_BRANDING": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "1": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "2": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  }
+                }
+              }
+            },
+            "PERKEY_CONSUMER": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "181": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "182": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "183": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "205": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "226": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  }
+                }
+              }
+            },
+            "PERKEY_GKEY": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "1": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "2": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "3": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "4": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "5": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "6": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "7": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "8": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "9": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  }
+                }
+              }
+            },
+            "PERKEY_INDICATOR": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "1": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "2": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "3": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "4": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "5": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  }
+                }
+              }
+            },
+            "PERKEY_KEYBOARD": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "10": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "100": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "101": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "11": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "12": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "13": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "135": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "136": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "137": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "138": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "139": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "14": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "15": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "16": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "17": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "18": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "19": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "20": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "21": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "22": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "224": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "225": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "226": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "227": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "228": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "229": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "23": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "230": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "231": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "24": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "25": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "26": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "27": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "28": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "29": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "30": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "31": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "32": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "33": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "34": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "35": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "36": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "37": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "38": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "39": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "4": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "40": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "41": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "42": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "43": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "44": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "45": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "46": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "47": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "48": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "49": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "5": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "50": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "51": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "52": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "53": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "54": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "55": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "56": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "57": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "58": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "59": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "6": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "60": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "61": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "62": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "63": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "64": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "65": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "66": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "67": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "68": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "69": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "7": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "70": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "71": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "72": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "73": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "74": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "75": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "76": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "77": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "78": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "79": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "8": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "80": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "81": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "82": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "83": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "84": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "85": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "86": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "87": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "88": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "89": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "9": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "90": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "91": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "92": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "93": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "94": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "95": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "96": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "97": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "98": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "99": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  }
+                }
+              }
+            },
+            "PERKEY_COSMETIC": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "165": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "160": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "172": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "173": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "166": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "163": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "164": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "170": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "171": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "176": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "175": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "162": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "169": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "167": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "161": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "168": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "174": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "1": {
+        "curveType": "LINEAR",
+        "length": 8,
+        "lightingSlots": {
+          "infoMap": {
+            "PERKEY_BRANDING": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "1": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "2": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  }
+                }
+              }
+            },
+            "PERKEY_CONSUMER": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "181": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "182": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "183": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "205": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "226": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  }
+                }
+              }
+            },
+            "PERKEY_GKEY": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "1": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "2": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "3": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "4": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "5": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "6": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "7": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "8": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "9": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  }
+                }
+              }
+            },
+            "PERKEY_INDICATOR": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "1": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "2": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "3": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "4": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "5": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  }
+                }
+              }
+            },
+            "PERKEY_KEYBOARD": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "10": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "100": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "101": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "11": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "12": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "13": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "135": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "136": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "137": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "138": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "139": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "14": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "15": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "16": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "17": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "18": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "19": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "20": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "21": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "22": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "224": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "225": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "226": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "227": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "228": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "229": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "23": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "230": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "231": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "24": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "25": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "26": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "27": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "28": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "29": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "30": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "31": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "32": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "33": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "34": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "35": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "36": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "37": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "38": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "39": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "4": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "40": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "41": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "42": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "43": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "44": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "45": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "46": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "47": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "48": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "49": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "5": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "50": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "51": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "52": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "53": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "54": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "55": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "56": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "57": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "58": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "59": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "6": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "60": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "61": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "62": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "63": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "64": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "65": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "66": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "67": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "68": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "69": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "7": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "70": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "71": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "72": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "73": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "74": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "75": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "76": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "77": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "78": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "79": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "8": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "80": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "81": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "82": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "83": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "84": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "85": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "86": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "87": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "88": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "89": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "9": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "90": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "91": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "92": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "93": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "94": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "95": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "96": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "97": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "98": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "99": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  }
+                }
+              }
+            },
+            "PERKEY_COSMETIC": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "168": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "165": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "176": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "174": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "173": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "160": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "169": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "170": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "175": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "161": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "166": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "167": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "162": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "172": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "163": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "164": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "171": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "2": {
+        "curveType": "LINEAR",
+        "length": 8,
+        "lightingSlots": {
+          "infoMap": {
+            "PERKEY_BRANDING": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "1": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "2": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  }
+                }
+              }
+            },
+            "PERKEY_CONSUMER": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "181": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "182": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "183": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "205": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "226": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  }
+                }
+              }
+            },
+            "PERKEY_GKEY": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "1": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "2": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "3": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "4": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "5": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "6": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "7": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "8": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "9": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  }
+                }
+              }
+            },
+            "PERKEY_INDICATOR": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "1": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "2": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "3": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "4": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "5": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  }
+                }
+              }
+            },
+            "PERKEY_KEYBOARD": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "10": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "100": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "101": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "11": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "12": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "13": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "135": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "136": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "137": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "138": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "139": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "14": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "15": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "16": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "17": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "18": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "19": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "20": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "21": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "22": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "224": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "225": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "226": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "227": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "228": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "229": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "23": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "230": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "231": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "24": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "25": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "26": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "27": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "28": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "29": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "30": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "31": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "32": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "33": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "34": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "35": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "36": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "37": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "38": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "39": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "4": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "40": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "41": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "42": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "43": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "44": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "45": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "46": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "47": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "48": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "49": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "5": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "50": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "51": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "52": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "53": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "54": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "55": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "56": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "57": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "58": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "59": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "6": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "60": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "61": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "62": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "63": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "64": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "65": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "66": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "67": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "68": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "69": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "7": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "70": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "71": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "72": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "73": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "74": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "75": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "76": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "77": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "78": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "79": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "8": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "80": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "81": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "82": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "83": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "84": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "85": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "86": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "87": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "88": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "89": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "9": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "90": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "91": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "92": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "93": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "94": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "95": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "96": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "97": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "98": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "99": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  }
+                }
+              }
+            },
+            "PERKEY_COSMETIC": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "161": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "173": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "172": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "170": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "171": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "166": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "165": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "163": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "175": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "160": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "164": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "174": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "162": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "169": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "176": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "167": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "168": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "3": {
+        "curveType": "LINEAR",
+        "length": 8,
+        "lightingSlots": {
+          "infoMap": {
+            "PERKEY_BRANDING": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "1": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "2": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  }
+                }
+              }
+            },
+            "PERKEY_CONSUMER": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "181": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "182": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "183": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "205": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "226": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  }
+                }
+              }
+            },
+            "PERKEY_GKEY": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "1": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "2": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "3": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "4": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "5": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "6": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "7": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "8": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "9": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  }
+                }
+              }
+            },
+            "PERKEY_INDICATOR": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "1": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "2": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "3": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "4": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "5": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  }
+                }
+              }
+            },
+            "PERKEY_KEYBOARD": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "10": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "100": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "101": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "11": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "12": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "13": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "135": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "136": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "137": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "138": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "139": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "14": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "15": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "16": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "17": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "18": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "19": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "20": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "21": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "22": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "224": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "225": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "226": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "227": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "228": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "229": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "23": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "230": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "231": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "24": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "25": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "26": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "27": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "28": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "29": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "30": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "31": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "32": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "33": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "34": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "35": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "36": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "37": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "38": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "39": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "4": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "40": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "41": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "42": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "43": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "44": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "45": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "46": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "47": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "48": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "49": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "5": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "50": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "51": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "52": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "53": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "54": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "55": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "56": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "57": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "58": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "59": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "6": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "60": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "61": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "62": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "63": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "64": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "65": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "66": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "67": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "68": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "69": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "7": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "70": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "71": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "72": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "73": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "74": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "75": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "76": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "77": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "78": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "79": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "8": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "80": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "81": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "82": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "83": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "84": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "85": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "86": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "87": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "88": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "89": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "9": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "90": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "91": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "92": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "93": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "94": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "95": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "96": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "97": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "98": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "99": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  }
+                }
+              }
+            },
+            "PERKEY_COSMETIC": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "170": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "167": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "166": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "160": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "161": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "173": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "164": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "171": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "174": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "163": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "162": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "165": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "175": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "176": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "168": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "169": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "172": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "4": {
+        "curveType": "LINEAR",
+        "length": 8,
+        "lightingSlots": {
+          "infoMap": {
+            "PERKEY_BRANDING": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "1": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "2": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  }
+                }
+              }
+            },
+            "PERKEY_CONSUMER": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "181": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "182": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "183": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "205": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "226": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  }
+                }
+              }
+            },
+            "PERKEY_GKEY": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "1": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "2": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "3": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "4": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "5": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "6": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "7": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "8": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "9": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  }
+                }
+              }
+            },
+            "PERKEY_INDICATOR": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "1": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "2": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "3": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "4": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "5": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  }
+                }
+              }
+            },
+            "PERKEY_KEYBOARD": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "10": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "100": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "101": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "11": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "12": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "13": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "135": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "136": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "137": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "138": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "139": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "14": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "15": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "16": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "17": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "18": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "19": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "20": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "21": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "22": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "224": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "225": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "226": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "227": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "228": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "229": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "23": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "230": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "231": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "24": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "25": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "26": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "27": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "28": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "29": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "30": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "31": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "32": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "33": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "34": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "35": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "36": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "37": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "38": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "39": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "4": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "40": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "41": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "42": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "43": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "44": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "45": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "46": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "47": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "48": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "49": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "5": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "50": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "51": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "52": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "53": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "54": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "55": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "56": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "57": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "58": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "59": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "6": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "60": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "61": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "62": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "63": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "64": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "65": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "66": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "67": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "68": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "69": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "7": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "70": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "71": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "72": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "73": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "74": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "75": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "76": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "77": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "78": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "79": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "8": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "80": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "81": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "82": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "83": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "84": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "85": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "86": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "87": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "88": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "89": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "9": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "90": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "91": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "92": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "93": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "94": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "95": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "96": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "97": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "98": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "99": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  }
+                }
+              }
+            },
+            "PERKEY_COSMETIC": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "172": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "169": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "164": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "175": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "161": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "168": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "167": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "174": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "163": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "160": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "170": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "171": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "166": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "162": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "165": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "176": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "173": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "5": {
+        "curveType": "LINEAR",
+        "length": 8,
+        "lightingSlots": {
+          "infoMap": {
+            "PERKEY_BRANDING": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "1": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "2": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  }
+                }
+              }
+            },
+            "PERKEY_CONSUMER": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "181": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "182": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "183": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "205": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "226": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  }
+                }
+              }
+            },
+            "PERKEY_GKEY": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "1": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "2": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "3": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "4": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "5": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "6": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "7": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "8": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "9": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  }
+                }
+              }
+            },
+            "PERKEY_INDICATOR": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "1": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "2": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "3": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "4": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "5": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  }
+                }
+              }
+            },
+            "PERKEY_KEYBOARD": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "10": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "100": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "101": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "11": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "12": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "13": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "135": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "136": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "137": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "138": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "139": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "14": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "15": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "16": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "17": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "18": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "19": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "20": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "21": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "22": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "224": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "225": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "226": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "227": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "228": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "229": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "23": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "230": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "231": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "24": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "25": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "26": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "27": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "28": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "29": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "30": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "31": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "32": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "33": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "34": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "35": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "36": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "37": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "38": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "39": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "4": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "40": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "41": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "42": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "43": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "44": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "45": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "46": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "47": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "48": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "49": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "5": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "50": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "51": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "52": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "53": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "54": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "55": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "56": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "57": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "58": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "59": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "6": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "60": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "61": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "62": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "63": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "64": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "65": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "66": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "67": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "68": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "69": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "7": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "70": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "71": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "72": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "73": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "74": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "75": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "76": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "77": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "78": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "79": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "8": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "80": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "81": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "82": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "83": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "84": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "85": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "86": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "87": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "88": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "89": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "9": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "90": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "91": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "92": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "93": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "94": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "95": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "96": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "97": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "98": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "99": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  }
+                }
+              }
+            },
+            "PERKEY_COSMETIC": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "165": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "168": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "173": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "160": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "174": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "169": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "175": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "170": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "161": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "167": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "166": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "163": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "162": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "176": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "172": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "171": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "164": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "6": {
+        "curveType": "LINEAR",
+        "length": 8,
+        "lightingSlots": {
+          "infoMap": {
+            "PERKEY_BRANDING": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "1": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "2": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  }
+                }
+              }
+            },
+            "PERKEY_CONSUMER": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "181": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "182": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "183": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "205": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "226": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  }
+                }
+              }
+            },
+            "PERKEY_GKEY": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "1": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "2": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "3": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "4": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "5": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "6": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "7": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "8": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "9": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  }
+                }
+              }
+            },
+            "PERKEY_INDICATOR": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "1": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "2": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "3": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "4": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  },
+                  "5": {
+                    "hex": "#00ff00",
+                    "tag": "background"
+                  }
+                }
+              }
+            },
+            "PERKEY_KEYBOARD": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "10": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "100": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "101": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "11": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "12": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "13": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "135": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "136": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "137": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "138": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "139": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "14": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "15": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "16": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "17": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "18": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "19": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "20": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "21": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "22": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "224": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "225": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "226": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "227": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "228": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "229": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "23": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "230": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "231": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "24": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "25": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "26": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "27": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "28": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "29": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "30": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "31": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "32": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "33": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "34": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "35": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "36": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "37": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "38": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "39": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "4": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "40": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "41": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "42": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "43": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "44": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "45": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "46": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "47": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "48": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "49": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "5": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "50": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "51": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "52": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "53": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "54": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "55": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "56": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "57": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "58": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "59": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "6": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "60": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "61": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "62": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "63": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "64": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "65": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "66": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "67": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "68": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "69": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "7": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "70": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "71": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "72": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "73": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "74": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "75": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "76": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "77": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "78": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "79": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "8": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "80": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "81": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "82": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "83": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "84": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "85": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "86": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "87": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "88": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "89": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "9": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "90": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "91": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "92": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "93": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "94": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "95": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "96": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "97": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "98": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "99": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  }
+                }
+              }
+            },
+            "PERKEY_COSMETIC": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "162": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "176": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "167": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "174": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "169": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "161": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "168": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "166": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "163": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "165": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "160": {
+                    "tag": "",
+                    "hex": "#00ff00"
+                  },
+                  "173": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "170": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "172": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "171": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "164": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "175": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "7": {
+        "curveType": "LINEAR",
+        "length": 8,
+        "lightingSlots": {
+          "infoMap": {
+            "PERKEY_BRANDING": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "1": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "2": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  }
+                }
+              }
+            },
+            "PERKEY_CONSUMER": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "181": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "182": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "183": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "205": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "226": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  }
+                }
+              }
+            },
+            "PERKEY_GKEY": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "1": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "2": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "3": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "4": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "5": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "6": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "7": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "8": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "9": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  }
+                }
+              }
+            },
+            "PERKEY_INDICATOR": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "1": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "2": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "3": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "4": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "5": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  }
+                }
+              }
+            },
+            "PERKEY_KEYBOARD": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "10": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "100": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "101": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "11": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "12": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "13": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "135": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "136": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "137": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "138": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "139": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "14": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "15": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "16": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "17": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "18": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "19": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "20": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "21": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "22": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "224": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "225": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "226": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "227": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "228": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "229": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "23": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "230": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "231": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "24": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "25": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "26": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "27": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "28": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "29": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "30": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "31": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "32": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "33": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "34": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "35": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "36": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "37": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "38": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "39": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "4": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "40": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "41": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "42": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "43": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "44": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "45": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "46": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "47": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "48": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "49": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "5": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "50": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "51": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "52": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "53": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "54": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "55": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "56": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "57": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "58": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "59": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "6": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "60": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "61": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "62": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "63": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "64": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "65": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "66": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "67": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "68": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "69": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "7": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "70": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "71": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "72": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "73": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "74": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "75": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "76": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "77": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "78": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "79": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "8": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "80": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "81": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "82": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "83": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "84": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "85": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "86": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "87": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "88": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "89": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "9": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "90": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "91": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "92": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "93": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "94": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "95": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "96": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "97": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "98": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  },
+                  "99": {
+                    "hex": "#8000ff",
+                    "tag": "fill"
+                  }
+                }
+              }
+            },
+            "PERKEY_COSMETIC": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "168": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "166": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "162": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "175": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "164": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "161": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "174": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "160": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "170": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "167": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "171": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "163": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "173": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "172": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "165": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "169": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  },
+                  "176": {
+                    "tag": "",
+                    "hex": "#8000ff"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "speed": 100
+  }
+}

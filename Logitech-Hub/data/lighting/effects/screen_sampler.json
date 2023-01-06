@@ -1,0 +1,91 @@
+{
+  "screen_sampler_info": {
+    "region_map": {
+      "122986a9-b96a-4ce8-a91f-f737b9c5cb2a": {
+        "id": "122986a9-b96a-4ce8-a91f-f737b9c5cb2a",
+        "top": 0.2,
+        "left": 0,
+        "right": 0.8,
+        "bottom": 0.55,
+        "color_function": "AVERAGE_COLOR",
+        "name": "TOP_LEFT"
+      },
+      "d6782ad8-b434-4426-9cc4-d0569729edf7": {
+        "id": "d6782ad8-b434-4426-9cc4-d0569729edf7",
+        "top": 0.55,
+        "left": 0,
+        "right": 0.8,
+        "bottom": 0.2,
+        "color_function": "AVERAGE_COLOR",
+        "name": "BOTTOM_LEFT"
+      },
+      "2a9d421f-8462-40c7-a4e8-f5f4c33754bf": {
+        "id": "2a9d421f-8462-40c7-a4e8-f5f4c33754bf",
+        "top": 0.2,
+        "left": 0.8,
+        "right": 0,
+        "bottom": 0.55,
+        "color_function": "AVERAGE_COLOR",
+        "name": "TOP_RIGHT"
+      },
+      "8eedd1ad-a955-416c-a287-bdd52084724e": {
+        "id": "8eedd1ad-a955-416c-a287-bdd52084724e",
+        "top": 0.55,
+        "left": 0.8,
+        "right": 0,
+        "bottom": 0.2,
+        "color_function": "AVERAGE_COLOR",
+        "name": "BOTTOM_RIGHT"
+      }
+    },
+    "lighting_slots": {
+      "info_map": {
+        "ZONE_ONE": {
+          "zone_color": {
+            "tag": "d6782ad8-b434-4426-9cc4-d0569729edf7"
+          }
+        },
+        "ZONE_TWO": {
+          "zone_color": {
+            "tag": "122986a9-b96a-4ce8-a91f-f737b9c5cb2a"
+          }
+        },
+        "ZONE_THREE": {
+          "zone_color": {
+            "tag": "8eedd1ad-a955-416c-a287-bdd52084724e"
+          }
+        },
+        "ZONE_FOUR": {
+          "zone_color": {
+            "tag": "2a9d421f-8462-40c7-a4e8-f5f4c33754bf"
+          }
+        },
+        "ZONE_FIVE": {
+          "zone_color": {
+            "tag": "2a9d421f-8462-40c7-a4e8-f5f4c33754bf"
+          }
+        },
+        "ZONE_BRANDING": {
+          "zone_color": {
+            "tag": "d6782ad8-b434-4426-9cc4-d0569729edf7"
+          }
+        },
+        "ZONE_PRIMARY": {
+          "zone_color": {
+            "tag": "122986a9-b96a-4ce8-a91f-f737b9c5cb2a"
+          }
+        },
+        "ZONE_TOP": {
+          "zone_color": {
+            "tag": "122986a9-b96a-4ce8-a91f-f737b9c5cb2a"
+          }
+        },
+        "ZONE_BOTTOM": {
+          "zone_color": {
+            "tag": "d6782ad8-b434-4426-9cc4-d0569729edf7"
+          }
+        }
+      }
+    }
+  }
+}

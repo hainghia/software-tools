@@ -1,0 +1,78 @@
+{
+  "audioVisualizerInfo": {
+    "frequencyLayout": [
+      {
+        "slots": [
+          {
+            "lightingType": "ZONAL",
+            "zoneType": "ZONE_ONE"
+          }
+        ],
+        "range": {
+          "start": "LOW_60HZ",
+          "end": "LOW_310HZ"
+        }
+      },
+      {
+        "slots": [
+          {
+            "lightingType": "ZONAL",
+            "zoneType": "ZONE_TWO"
+          }
+        ],
+        "range": {
+          "start": "LOW_310HZ",
+          "end": "MID_600HZ"
+        }
+      },
+      {
+        "slots": [
+          {
+            "lightingType": "ZONAL",
+            "zoneType": "ZONE_THREE"
+          }
+        ],
+        "range": {
+          "start": "MID_600HZ",
+          "end": "MID_1000HZ"
+        }
+      },
+      {
+        "slots": [
+          {
+            "lightingType": "ZONAL",
+            "zoneType": "ZONE_FOUR"
+          }
+        ],
+        "range": {
+          "start": "MID_1000HZ",
+          "end": "MID_2000HZ"
+        }
+      },
+      {
+        "slots": [
+          {
+            "lightingType": "ZONAL",
+            "zoneType": "ZONE_FOUR"
+          }
+        ],
+        "range": {
+          "start": "MID_2000HZ",
+          "end": "HIGH_4000HZ"
+        }
+      },
+      {
+        "slots": [
+          {
+            "lightingType": "ZONAL",
+            "zoneType": "ZONE_FIVE"
+          }
+        ],
+        "range": {
+          "start": "HIGH_4000HZ",
+          "end": "HIGH_6000HZ"
+        }
+      }
+    ]
+  }
+}

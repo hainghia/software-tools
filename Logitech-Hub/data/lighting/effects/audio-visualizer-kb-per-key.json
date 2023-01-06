@@ -1,0 +1,1279 @@
+{
+  "audioVisualizerInfo": {
+    "frequencyLayout": [
+      {
+        "slots": [
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_GKEY",
+            "slotCode": 5
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_GKEY",
+            "slotCode": 4
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_GKEY",
+            "slotCode": 3
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_GKEY",
+            "slotCode": 2
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_GKEY",
+            "slotCode": 1
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_BRANDING",
+            "slotCode": 1
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          }
+        ],
+        "ordered": true,
+        "range": {
+          "start": "LOW_60HZ",
+          "end": "LOW_170HZ"
+        }
+      },
+      {
+        "slots": [
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_COSMETIC",
+            "slotCode": 164
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 224
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_COSMETIC",
+            "slotCode": 163
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 225
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 57
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_COSMETIC",
+            "slotCode": 162
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 43
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 53
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_COSMETIC",
+            "slotCode": 161
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 41
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_COSMETIC",
+            "slotCode": 160
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          }
+        ],
+        "ordered": true,
+        "range": {
+          "start": "LOW_60HZ",
+          "end": "LOW_170HZ"
+        }
+      },
+      {
+        "slots": [
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_COSMETIC",
+            "slotCode": 165
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 227
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 29
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 4
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 20
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 30
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 58
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_GKEY",
+            "slotCode": 6
+          }
+        ],
+        "ordered": true,
+        "range": {
+          "start": "LOW_170HZ",
+          "end": "LOW_310HZ"
+        }
+      },
+      {
+        "slots": [
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_COSMETIC",
+            "slotCode": 165
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 100
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 22
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 26
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 31
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 59
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_GKEY",
+            "slotCode": 7
+          }
+        ],
+        "ordered": true,
+        "range": {
+          "start": "LOW_170HZ",
+          "end": "LOW_310HZ"
+        }
+      },
+      {
+        "slots": [
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_COSMETIC",
+            "slotCode": 166
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_BRANDING",
+            "slotCode": 2
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          }
+        ],
+        "ordered": true,
+        "range": {
+          "start": "LOW_310HZ",
+          "end": "MID_600HZ"
+        }
+      },
+      {
+        "slots": [
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_COSMETIC",
+            "slotCode": 166
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 145
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          }
+        ],
+        "ordered": true,
+        "range": {
+          "start": "LOW_310HZ",
+          "end": "MID_600HZ"
+        }
+      },
+      {
+        "slots": [
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_COSMETIC",
+            "slotCode": 166
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 226
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 27
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 7
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 8
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 32
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 60
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_GKEY",
+            "slotCode": 8
+          }
+        ],
+        "ordered": true,
+        "range": {
+          "start": "LOW_310HZ",
+          "end": "MID_600HZ"
+        }
+      },
+      {
+        "slots": [
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_COSMETIC",
+            "slotCode": 166
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 139
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 6
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 9
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 21
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 33
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 61
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_GKEY",
+            "slotCode": 9
+          }
+        ],
+        "ordered": true,
+        "range": {
+          "start": "LOW_310HZ",
+          "end": "MID_600HZ"
+        }
+      },
+      {
+        "slots": [
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_COSMETIC",
+            "slotCode": 167
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 44
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 25
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 10
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 23
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 34
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          }
+        ],
+        "ordered": true,
+        "range": {
+          "start": "MID_600HZ",
+          "end": "MID_1000HZ"
+        }
+      },
+      {
+        "slots": [
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_COSMETIC",
+            "slotCode": 167
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 5
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 11
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 28
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 35
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 62
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          }
+        ],
+        "ordered": true,
+        "range": {
+          "start": "MID_600HZ",
+          "end": "MID_1000HZ"
+        }
+      },
+      {
+        "slots": [
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_COSMETIC",
+            "slotCode": 168
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 17
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 13
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 24
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 36
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 63
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          }
+        ],
+        "ordered": true,
+        "range": {
+          "start": "MID_1000HZ",
+          "end": "MID_1500HZ"
+        }
+      },
+      {
+        "slots": [
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_COSMETIC",
+            "slotCode": 168
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 16
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 14
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 12
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 37
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 64
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          }
+        ],
+        "ordered": true,
+        "range": {
+          "start": "MID_1000HZ",
+          "end": "MID_1500HZ"
+        }
+      },
+      {
+        "slots": [
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_COSMETIC",
+            "slotCode": 169
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 230
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 54
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 15
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 18
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 38
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 65
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          }
+        ],
+        "ordered": true,
+        "range": {
+          "start": "MID_1500HZ",
+          "end": "MID_2000HZ"
+        }
+      },
+      {
+        "slots": [
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_COSMETIC",
+            "slotCode": 169
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 138
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 55
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 51
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 19
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 39
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          }
+        ],
+        "ordered": true,
+        "range": {
+          "start": "MID_1500HZ",
+          "end": "MID_2000HZ"
+        }
+      },
+      {
+        "slots": [
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_COSMETIC",
+            "slotCode": 169
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 136
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          }
+        ],
+        "ordered": true,
+        "range": {
+          "start": "MID_1500HZ",
+          "end": "MID_2000HZ"
+        }
+      },
+      {
+        "slots": [
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_COSMETIC",
+            "slotCode": 169
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 144
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          }
+        ],
+        "ordered": true,
+        "range": {
+          "start": "MID_1500HZ",
+          "end": "MID_2000HZ"
+        }
+      },
+      {
+        "slots": [
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_COSMETIC",
+            "slotCode": 170
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 231
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 56
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 52
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 47
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 45
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 66
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_INDICATOR",
+            "slotCode": 5
+          }
+        ],
+        "ordered": true,
+        "range": {
+          "start": "MID_2000HZ",
+          "end": "MID_2500HZ"
+        }
+      },
+      {
+        "slots": [
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_COSMETIC",
+            "slotCode": 170
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 101
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 135
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 50
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 48
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 46
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 67
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_INDICATOR",
+            "slotCode": 3
+          }
+        ],
+        "ordered": true,
+        "range": {
+          "start": "MID_2000HZ",
+          "end": "MID_2500HZ"
+        }
+      },
+      {
+        "slots": [
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_COSMETIC",
+            "slotCode": 171
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 228
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 229
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 40
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 49
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 42
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 68
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_INDICATOR",
+            "slotCode": 4
+          }
+        ],
+        "ordered": true,
+        "range": {
+          "start": "MID_2500HZ",
+          "end": "MID_3000HZ"
+        }
+      },
+      {
+        "slots": [
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_COSMETIC",
+            "slotCode": 171
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 137
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 69
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          }
+        ],
+        "ordered": true,
+        "range": {
+          "start": "MID_2500HZ",
+          "end": "MID_3000HZ"
+        }
+      },
+      {
+        "slots": [
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_COSMETIC",
+            "slotCode": 172
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 80
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_COSMETIC",
+            "slotCode": 173
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_COSMETIC",
+            "slotCode": 174
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 76
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 73
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_COSMETIC",
+            "slotCode": 175
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 70
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_INDICATOR",
+            "slotCode": 2
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_COSMETIC",
+            "slotCode": 176
+          }
+        ],
+        "ordered": true,
+        "range": {
+          "start": "MID_3000HZ",
+          "end": "HIGH_4000HZ"
+        }
+      },
+      {
+        "slots": [
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 81
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 82
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 77
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 74
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 71
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          }
+        ],
+        "ordered": true,
+        "range": {
+          "start": "MID_3000HZ",
+          "end": "HIGH_4000HZ"
+        }
+      },
+      {
+        "slots": [
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 79
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 78
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 75
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 72
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_INDICATOR",
+            "slotCode": 1
+          }
+        ],
+        "ordered": true,
+        "range": {
+          "start": "MID_3000HZ",
+          "end": "HIGH_4000HZ"
+        }
+      },
+      {
+        "slots": [
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 98
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 89
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 92
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 95
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 83
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_CONSUMER",
+            "slotCode": 205
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_CONSUMER",
+            "slotCode": 226
+          }
+        ],
+        "ordered": true,
+        "range": {
+          "start": "HIGH_4000HZ",
+          "end": "HIGH_5000HZ"
+        }
+      },
+      {
+        "slots": [
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 90
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 93
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 96
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 84
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_CONSUMER",
+            "slotCode": 183
+          }
+        ],
+        "ordered": true,
+        "range": {
+          "start": "HIGH_4000HZ",
+          "end": "HIGH_5000HZ"
+        }
+      },
+      {
+        "slots": [
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 99
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 91
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 94
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 97
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 85
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_CONSUMER",
+            "slotCode": 182
+          }
+        ],
+        "ordered": true,
+        "range": {
+          "start": "HIGH_5000HZ",
+          "end": "HIGH_6000HZ"
+        }
+      },
+      {
+        "slots": [
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 88
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 87
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_KEYBOARD",
+            "slotCode": 86
+          },
+          {
+            "lightingType": "INVALID_LIGHTING",
+            "perKeyType": "PERKEY_KEYBOARD"
+          },
+          {
+            "lightingType": "PER_KEY",
+            "perKeyType": "PERKEY_CONSUMER",
+            "slotCode": 181
+          }
+        ],
+        "ordered": true,
+        "range": {
+          "start": "HIGH_5000HZ",
+          "end": "HIGH_6000HZ"
+        }
+      }
+    ]
+  }
+}

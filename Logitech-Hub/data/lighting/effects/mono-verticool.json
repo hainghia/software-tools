@@ -1,0 +1,3600 @@
+{
+  "keyframeInfo": {
+    "direction": "BOUNCE",
+    "keyframeMap": {
+      "0": {
+        "curveType": "LINEAR",
+        "length": 8,
+        "lightingSlots": {
+          "infoMap": {
+            "PERKEY_BRANDING": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "0": {
+                    "hex": "#ffffff"
+                  },
+                  "1": {
+                    "hex": "#ffffff"
+                  },
+                  "2": {
+                    "hex": "#ffffff"
+                  }
+                }
+              }
+            },
+            "PERKEY_CONSUMER": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "0": {
+                    "hex": "#ffffff"
+                  },
+                  "181": {
+                    "hex": "#ffffff"
+                  },
+                  "182": {
+                    "hex": "#ffffff"
+                  },
+                  "183": {
+                    "hex": "#ffffff"
+                  },
+                  "205": {
+                    "hex": "#ffffff"
+                  },
+                  "226": {
+                    "hex": "#ffffff"
+                  }
+                }
+              }
+            },
+            "PERKEY_GKEY": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "0": {
+                    "hex": "#ffffff"
+                  },
+                  "1": {
+                    "hex": "#ffffff"
+                  },
+                  "2": {
+                    "hex": "#ffffff"
+                  },
+                  "3": {
+                    "hex": "#ffffff"
+                  },
+                  "4": {
+                    "hex": "#ffffff"
+                  },
+                  "5": {
+                    "hex": "#ffffff"
+                  },
+                  "6": {
+                    "hex": "#ffffff"
+                  },
+                  "7": {
+                    "hex": "#ffffff"
+                  },
+                  "8": {
+                    "hex": "#ffffff"
+                  },
+                  "9": {
+                    "hex": "#ffffff"
+                  }
+                }
+              }
+            },
+            "PERKEY_INDICATOR": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "0": {
+                    "hex": "#ffffff"
+                  },
+                  "1": {
+                    "hex": "#ffffff"
+                  },
+                  "2": {
+                    "hex": "#ffffff"
+                  },
+                  "3": {
+                    "hex": "#ffffff"
+                  },
+                  "4": {
+                    "hex": "#ffffff"
+                  },
+                  "5": {
+                    "hex": "#ffffff"
+                  }
+                }
+              }
+            },
+            "PERKEY_KEYBOARD": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "0": {
+                    "hex": "#ffffff"
+                  },
+                  "10": {
+                    "hex": "#ffffff"
+                  },
+                  "100": {
+                    "hex": "#ffffff"
+                  },
+                  "101": {
+                    "hex": "#ffffff"
+                  },
+                  "11": {
+                    "hex": "#ffffff"
+                  },
+                  "12": {
+                    "hex": "#ffffff"
+                  },
+                  "13": {
+                    "hex": "#ffffff"
+                  },
+                  "135": {
+                    "hex": "#ffffff"
+                  },
+                  "136": {
+                    "hex": "#ffffff"
+                  },
+                  "137": {
+                    "hex": "#ffffff"
+                  },
+                  "138": {
+                    "hex": "#ffffff"
+                  },
+                  "139": {
+                    "hex": "#ffffff"
+                  },
+                  "14": {
+                    "hex": "#ffffff"
+                  },
+                  "15": {
+                    "hex": "#ffffff"
+                  },
+                  "16": {
+                    "hex": "#ffffff"
+                  },
+                  "17": {
+                    "hex": "#ffffff"
+                  },
+                  "18": {
+                    "hex": "#ffffff"
+                  },
+                  "19": {
+                    "hex": "#ffffff"
+                  },
+                  "20": {
+                    "hex": "#ffffff"
+                  },
+                  "21": {
+                    "hex": "#ffffff"
+                  },
+                  "22": {
+                    "hex": "#ffffff"
+                  },
+                  "224": {
+                    "hex": "#ffffff"
+                  },
+                  "225": {
+                    "hex": "#ffffff"
+                  },
+                  "226": {
+                    "hex": "#ffffff"
+                  },
+                  "227": {
+                    "hex": "#ffffff"
+                  },
+                  "228": {
+                    "hex": "#ffffff"
+                  },
+                  "229": {
+                    "hex": "#ffffff"
+                  },
+                  "23": {
+                    "hex": "#ffffff"
+                  },
+                  "230": {
+                    "hex": "#ffffff"
+                  },
+                  "231": {
+                    "hex": "#ffffff"
+                  },
+                  "24": {
+                    "hex": "#ffffff"
+                  },
+                  "25": {
+                    "hex": "#ffffff"
+                  },
+                  "26": {
+                    "hex": "#ffffff"
+                  },
+                  "27": {
+                    "hex": "#ffffff"
+                  },
+                  "28": {
+                    "hex": "#ffffff"
+                  },
+                  "29": {
+                    "hex": "#ffffff"
+                  },
+                  "30": {
+                    "hex": "#ffffff"
+                  },
+                  "31": {
+                    "hex": "#ffffff"
+                  },
+                  "32": {
+                    "hex": "#ffffff"
+                  },
+                  "33": {
+                    "hex": "#ffffff"
+                  },
+                  "34": {
+                    "hex": "#ffffff"
+                  },
+                  "35": {
+                    "hex": "#ffffff"
+                  },
+                  "36": {
+                    "hex": "#ffffff"
+                  },
+                  "37": {
+                    "hex": "#ffffff"
+                  },
+                  "38": {
+                    "hex": "#ffffff"
+                  },
+                  "39": {
+                    "hex": "#ffffff"
+                  },
+                  "4": {
+                    "hex": "#ffffff"
+                  },
+                  "40": {
+                    "hex": "#ffffff"
+                  },
+                  "41": {
+                    "hex": "#ffffff"
+                  },
+                  "42": {
+                    "hex": "#ffffff"
+                  },
+                  "43": {
+                    "hex": "#ffffff"
+                  },
+                  "44": {
+                    "hex": "#ffffff"
+                  },
+                  "45": {
+                    "hex": "#ffffff"
+                  },
+                  "46": {
+                    "hex": "#ffffff"
+                  },
+                  "47": {
+                    "hex": "#ffffff"
+                  },
+                  "48": {
+                    "hex": "#ffffff"
+                  },
+                  "49": {
+                    "hex": "#ffffff"
+                  },
+                  "5": {
+                    "hex": "#ffffff"
+                  },
+                  "50": {
+                    "hex": "#ffffff"
+                  },
+                  "51": {
+                    "hex": "#ffffff"
+                  },
+                  "52": {
+                    "hex": "#ffffff"
+                  },
+                  "53": {
+                    "hex": "#ffffff"
+                  },
+                  "54": {
+                    "hex": "#ffffff"
+                  },
+                  "55": {
+                    "hex": "#ffffff"
+                  },
+                  "56": {
+                    "hex": "#ffffff"
+                  },
+                  "57": {
+                    "hex": "#ffffff"
+                  },
+                  "58": {
+                    "hex": "#ffffff"
+                  },
+                  "59": {
+                    "hex": "#ffffff"
+                  },
+                  "6": {
+                    "hex": "#ffffff"
+                  },
+                  "60": {
+                    "hex": "#ffffff"
+                  },
+                  "61": {
+                    "hex": "#ffffff"
+                  },
+                  "62": {
+                    "hex": "#ffffff"
+                  },
+                  "63": {
+                    "hex": "#ffffff"
+                  },
+                  "64": {
+                    "hex": "#ffffff"
+                  },
+                  "65": {
+                    "hex": "#ffffff"
+                  },
+                  "66": {
+                    "hex": "#ffffff"
+                  },
+                  "67": {
+                    "hex": "#ffffff"
+                  },
+                  "68": {
+                    "hex": "#ffffff"
+                  },
+                  "69": {
+                    "hex": "#ffffff"
+                  },
+                  "7": {
+                    "hex": "#ffffff"
+                  },
+                  "70": {
+                    "hex": "#ffffff"
+                  },
+                  "71": {
+                    "hex": "#ffffff"
+                  },
+                  "72": {
+                    "hex": "#ffffff"
+                  },
+                  "73": {
+                    "hex": "#ffffff"
+                  },
+                  "74": {
+                    "hex": "#ffffff"
+                  },
+                  "75": {
+                    "hex": "#ffffff"
+                  },
+                  "76": {
+                    "hex": "#ffffff"
+                  },
+                  "77": {
+                    "hex": "#ffffff"
+                  },
+                  "78": {
+                    "hex": "#ffffff"
+                  },
+                  "79": {
+                    "hex": "#ffffff"
+                  },
+                  "8": {
+                    "hex": "#ffffff"
+                  },
+                  "80": {
+                    "hex": "#ffffff"
+                  },
+                  "81": {
+                    "hex": "#ffffff"
+                  },
+                  "82": {
+                    "hex": "#ffffff"
+                  },
+                  "83": {
+                    "hex": "#ffffff"
+                  },
+                  "84": {
+                    "hex": "#ffffff"
+                  },
+                  "85": {
+                    "hex": "#ffffff"
+                  },
+                  "86": {
+                    "hex": "#ffffff"
+                  },
+                  "87": {
+                    "hex": "#ffffff"
+                  },
+                  "88": {
+                    "hex": "#ffffff"
+                  },
+                  "89": {
+                    "hex": "#ffffff"
+                  },
+                  "9": {
+                    "hex": "#ffffff"
+                  },
+                  "90": {
+                    "hex": "#ffffff"
+                  },
+                  "91": {
+                    "hex": "#ffffff"
+                  },
+                  "92": {
+                    "hex": "#ffffff"
+                  },
+                  "93": {
+                    "hex": "#ffffff"
+                  },
+                  "94": {
+                    "hex": "#ffffff"
+                  },
+                  "95": {
+                    "hex": "#ffffff"
+                  },
+                  "96": {
+                    "hex": "#ffffff"
+                  },
+                  "97": {
+                    "hex": "#ffffff"
+                  },
+                  "98": {
+                    "hex": "#ffffff"
+                  },
+                  "99": {
+                    "hex": "#ffffff"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "1": {
+        "curveType": "LINEAR",
+        "length": 8,
+        "lightingSlots": {
+          "infoMap": {
+            "PERKEY_BRANDING": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "0": {
+                    "hex": "#ffffff"
+                  },
+                  "1": {
+                    "hex": "#ffffff"
+                  },
+                  "2": {
+                    "hex": "#090909"
+                  }
+                }
+              }
+            },
+            "PERKEY_CONSUMER": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "0": {
+                    "hex": "#ffffff"
+                  },
+                  "181": {
+                    "hex": "#ffffff"
+                  },
+                  "182": {
+                    "hex": "#ffffff"
+                  },
+                  "183": {
+                    "hex": "#ffffff"
+                  },
+                  "205": {
+                    "hex": "#ffffff"
+                  },
+                  "226": {
+                    "hex": "#ffffff"
+                  }
+                }
+              }
+            },
+            "PERKEY_GKEY": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "0": {
+                    "hex": "#ffffff"
+                  },
+                  "1": {
+                    "hex": "#ffffff"
+                  },
+                  "2": {
+                    "hex": "#ffffff"
+                  },
+                  "3": {
+                    "hex": "#ffffff"
+                  },
+                  "4": {
+                    "hex": "#ffffff"
+                  },
+                  "5": {
+                    "hex": "#090909"
+                  },
+                  "6": {
+                    "hex": "#ffffff"
+                  },
+                  "7": {
+                    "hex": "#ffffff"
+                  },
+                  "8": {
+                    "hex": "#ffffff"
+                  },
+                  "9": {
+                    "hex": "#ffffff"
+                  }
+                }
+              }
+            },
+            "PERKEY_INDICATOR": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "0": {
+                    "hex": "#ffffff"
+                  },
+                  "1": {
+                    "hex": "#ffffff"
+                  },
+                  "2": {
+                    "hex": "#ffffff"
+                  },
+                  "3": {
+                    "hex": "#ffffff"
+                  },
+                  "4": {
+                    "hex": "#ffffff"
+                  },
+                  "5": {
+                    "hex": "#ffffff"
+                  }
+                }
+              }
+            },
+            "PERKEY_KEYBOARD": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "0": {
+                    "hex": "#ffffff"
+                  },
+                  "10": {
+                    "hex": "#ffffff"
+                  },
+                  "100": {
+                    "hex": "#ffffff"
+                  },
+                  "101": {
+                    "hex": "#090909"
+                  },
+                  "11": {
+                    "hex": "#ffffff"
+                  },
+                  "12": {
+                    "hex": "#ffffff"
+                  },
+                  "13": {
+                    "hex": "#ffffff"
+                  },
+                  "135": {
+                    "hex": "#ffffff"
+                  },
+                  "136": {
+                    "hex": "#090909"
+                  },
+                  "137": {
+                    "hex": "#ffffff"
+                  },
+                  "138": {
+                    "hex": "#090909"
+                  },
+                  "139": {
+                    "hex": "#090909"
+                  },
+                  "14": {
+                    "hex": "#ffffff"
+                  },
+                  "15": {
+                    "hex": "#ffffff"
+                  },
+                  "16": {
+                    "hex": "#ffffff"
+                  },
+                  "17": {
+                    "hex": "#ffffff"
+                  },
+                  "18": {
+                    "hex": "#ffffff"
+                  },
+                  "19": {
+                    "hex": "#ffffff"
+                  },
+                  "20": {
+                    "hex": "#ffffff"
+                  },
+                  "21": {
+                    "hex": "#ffffff"
+                  },
+                  "22": {
+                    "hex": "#ffffff"
+                  },
+                  "224": {
+                    "hex": "#090909"
+                  },
+                  "225": {
+                    "hex": "#ffffff"
+                  },
+                  "226": {
+                    "hex": "#090909"
+                  },
+                  "227": {
+                    "hex": "#090909"
+                  },
+                  "228": {
+                    "hex": "#090909"
+                  },
+                  "229": {
+                    "hex": "#ffffff"
+                  },
+                  "23": {
+                    "hex": "#ffffff"
+                  },
+                  "230": {
+                    "hex": "#090909"
+                  },
+                  "231": {
+                    "hex": "#090909"
+                  },
+                  "24": {
+                    "hex": "#ffffff"
+                  },
+                  "25": {
+                    "hex": "#ffffff"
+                  },
+                  "26": {
+                    "hex": "#ffffff"
+                  },
+                  "27": {
+                    "hex": "#ffffff"
+                  },
+                  "28": {
+                    "hex": "#ffffff"
+                  },
+                  "29": {
+                    "hex": "#ffffff"
+                  },
+                  "30": {
+                    "hex": "#ffffff"
+                  },
+                  "31": {
+                    "hex": "#ffffff"
+                  },
+                  "32": {
+                    "hex": "#ffffff"
+                  },
+                  "33": {
+                    "hex": "#ffffff"
+                  },
+                  "34": {
+                    "hex": "#ffffff"
+                  },
+                  "35": {
+                    "hex": "#ffffff"
+                  },
+                  "36": {
+                    "hex": "#ffffff"
+                  },
+                  "37": {
+                    "hex": "#ffffff"
+                  },
+                  "38": {
+                    "hex": "#ffffff"
+                  },
+                  "39": {
+                    "hex": "#ffffff"
+                  },
+                  "4": {
+                    "hex": "#ffffff"
+                  },
+                  "40": {
+                    "hex": "#ffffff"
+                  },
+                  "41": {
+                    "hex": "#ffffff"
+                  },
+                  "42": {
+                    "hex": "#ffffff"
+                  },
+                  "43": {
+                    "hex": "#ffffff"
+                  },
+                  "44": {
+                    "hex": "#090909"
+                  },
+                  "45": {
+                    "hex": "#ffffff"
+                  },
+                  "46": {
+                    "hex": "#ffffff"
+                  },
+                  "47": {
+                    "hex": "#ffffff"
+                  },
+                  "48": {
+                    "hex": "#ffffff"
+                  },
+                  "49": {
+                    "hex": "#ffffff"
+                  },
+                  "5": {
+                    "hex": "#ffffff"
+                  },
+                  "50": {
+                    "hex": "#ffffff"
+                  },
+                  "51": {
+                    "hex": "#ffffff"
+                  },
+                  "52": {
+                    "hex": "#ffffff"
+                  },
+                  "53": {
+                    "hex": "#ffffff"
+                  },
+                  "54": {
+                    "hex": "#ffffff"
+                  },
+                  "55": {
+                    "hex": "#ffffff"
+                  },
+                  "56": {
+                    "hex": "#ffffff"
+                  },
+                  "57": {
+                    "hex": "#ffffff"
+                  },
+                  "58": {
+                    "hex": "#ffffff"
+                  },
+                  "59": {
+                    "hex": "#ffffff"
+                  },
+                  "6": {
+                    "hex": "#ffffff"
+                  },
+                  "60": {
+                    "hex": "#ffffff"
+                  },
+                  "61": {
+                    "hex": "#ffffff"
+                  },
+                  "62": {
+                    "hex": "#ffffff"
+                  },
+                  "63": {
+                    "hex": "#ffffff"
+                  },
+                  "64": {
+                    "hex": "#ffffff"
+                  },
+                  "65": {
+                    "hex": "#ffffff"
+                  },
+                  "66": {
+                    "hex": "#ffffff"
+                  },
+                  "67": {
+                    "hex": "#ffffff"
+                  },
+                  "68": {
+                    "hex": "#ffffff"
+                  },
+                  "69": {
+                    "hex": "#ffffff"
+                  },
+                  "7": {
+                    "hex": "#ffffff"
+                  },
+                  "70": {
+                    "hex": "#ffffff"
+                  },
+                  "71": {
+                    "hex": "#ffffff"
+                  },
+                  "72": {
+                    "hex": "#ffffff"
+                  },
+                  "73": {
+                    "hex": "#ffffff"
+                  },
+                  "74": {
+                    "hex": "#ffffff"
+                  },
+                  "75": {
+                    "hex": "#ffffff"
+                  },
+                  "76": {
+                    "hex": "#ffffff"
+                  },
+                  "77": {
+                    "hex": "#ffffff"
+                  },
+                  "78": {
+                    "hex": "#ffffff"
+                  },
+                  "79": {
+                    "hex": "#090909"
+                  },
+                  "8": {
+                    "hex": "#ffffff"
+                  },
+                  "80": {
+                    "hex": "#090909"
+                  },
+                  "81": {
+                    "hex": "#090909"
+                  },
+                  "82": {
+                    "hex": "#ffffff"
+                  },
+                  "83": {
+                    "hex": "#ffffff"
+                  },
+                  "84": {
+                    "hex": "#ffffff"
+                  },
+                  "85": {
+                    "hex": "#ffffff"
+                  },
+                  "86": {
+                    "hex": "#ffffff"
+                  },
+                  "87": {
+                    "hex": "#ffffff"
+                  },
+                  "88": {
+                    "hex": "#090909"
+                  },
+                  "89": {
+                    "hex": "#ffffff"
+                  },
+                  "9": {
+                    "hex": "#ffffff"
+                  },
+                  "90": {
+                    "hex": "#ffffff"
+                  },
+                  "91": {
+                    "hex": "#ffffff"
+                  },
+                  "92": {
+                    "hex": "#ffffff"
+                  },
+                  "93": {
+                    "hex": "#ffffff"
+                  },
+                  "94": {
+                    "hex": "#ffffff"
+                  },
+                  "95": {
+                    "hex": "#ffffff"
+                  },
+                  "96": {
+                    "hex": "#ffffff"
+                  },
+                  "97": {
+                    "hex": "#ffffff"
+                  },
+                  "98": {
+                    "hex": "#090909"
+                  },
+                  "99": {
+                    "hex": "#090909"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "2": {
+        "curveType": "LINEAR",
+        "length": 8,
+        "lightingSlots": {
+          "infoMap": {
+            "PERKEY_BRANDING": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "0": {
+                    "hex": "#ffffff"
+                  },
+                  "1": {
+                    "hex": "#ffffff"
+                  },
+                  "2": {
+                    "hex": "#090909"
+                  }
+                }
+              }
+            },
+            "PERKEY_CONSUMER": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "0": {
+                    "hex": "#ffffff"
+                  },
+                  "181": {
+                    "hex": "#ffffff"
+                  },
+                  "182": {
+                    "hex": "#ffffff"
+                  },
+                  "183": {
+                    "hex": "#ffffff"
+                  },
+                  "205": {
+                    "hex": "#ffffff"
+                  },
+                  "226": {
+                    "hex": "#ffffff"
+                  }
+                }
+              }
+            },
+            "PERKEY_GKEY": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "0": {
+                    "hex": "#ffffff"
+                  },
+                  "1": {
+                    "hex": "#ffffff"
+                  },
+                  "2": {
+                    "hex": "#ffffff"
+                  },
+                  "3": {
+                    "hex": "#ffffff"
+                  },
+                  "4": {
+                    "hex": "#090909"
+                  },
+                  "5": {
+                    "hex": "#090909"
+                  },
+                  "6": {
+                    "hex": "#ffffff"
+                  },
+                  "7": {
+                    "hex": "#ffffff"
+                  },
+                  "8": {
+                    "hex": "#ffffff"
+                  },
+                  "9": {
+                    "hex": "#ffffff"
+                  }
+                }
+              }
+            },
+            "PERKEY_INDICATOR": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "0": {
+                    "hex": "#ffffff"
+                  },
+                  "1": {
+                    "hex": "#ffffff"
+                  },
+                  "2": {
+                    "hex": "#ffffff"
+                  },
+                  "3": {
+                    "hex": "#ffffff"
+                  },
+                  "4": {
+                    "hex": "#ffffff"
+                  },
+                  "5": {
+                    "hex": "#ffffff"
+                  }
+                }
+              }
+            },
+            "PERKEY_KEYBOARD": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "0": {
+                    "hex": "#ffffff"
+                  },
+                  "10": {
+                    "hex": "#ffffff"
+                  },
+                  "100": {
+                    "hex": "#090909"
+                  },
+                  "101": {
+                    "hex": "#090909"
+                  },
+                  "11": {
+                    "hex": "#ffffff"
+                  },
+                  "12": {
+                    "hex": "#ffffff"
+                  },
+                  "13": {
+                    "hex": "#ffffff"
+                  },
+                  "135": {
+                    "hex": "#090909"
+                  },
+                  "136": {
+                    "hex": "#090909"
+                  },
+                  "137": {
+                    "hex": "#ffffff"
+                  },
+                  "138": {
+                    "hex": "#090909"
+                  },
+                  "139": {
+                    "hex": "#090909"
+                  },
+                  "14": {
+                    "hex": "#ffffff"
+                  },
+                  "15": {
+                    "hex": "#ffffff"
+                  },
+                  "16": {
+                    "hex": "#090909"
+                  },
+                  "17": {
+                    "hex": "#090909"
+                  },
+                  "18": {
+                    "hex": "#ffffff"
+                  },
+                  "19": {
+                    "hex": "#ffffff"
+                  },
+                  "20": {
+                    "hex": "#ffffff"
+                  },
+                  "21": {
+                    "hex": "#ffffff"
+                  },
+                  "22": {
+                    "hex": "#ffffff"
+                  },
+                  "224": {
+                    "hex": "#090909"
+                  },
+                  "225": {
+                    "hex": "#090909"
+                  },
+                  "226": {
+                    "hex": "#090909"
+                  },
+                  "227": {
+                    "hex": "#090909"
+                  },
+                  "228": {
+                    "hex": "#090909"
+                  },
+                  "229": {
+                    "hex": "#090909"
+                  },
+                  "23": {
+                    "hex": "#ffffff"
+                  },
+                  "230": {
+                    "hex": "#090909"
+                  },
+                  "231": {
+                    "hex": "#090909"
+                  },
+                  "24": {
+                    "hex": "#ffffff"
+                  },
+                  "25": {
+                    "hex": "#090909"
+                  },
+                  "26": {
+                    "hex": "#ffffff"
+                  },
+                  "27": {
+                    "hex": "#090909"
+                  },
+                  "28": {
+                    "hex": "#ffffff"
+                  },
+                  "29": {
+                    "hex": "#090909"
+                  },
+                  "30": {
+                    "hex": "#ffffff"
+                  },
+                  "31": {
+                    "hex": "#ffffff"
+                  },
+                  "32": {
+                    "hex": "#ffffff"
+                  },
+                  "33": {
+                    "hex": "#ffffff"
+                  },
+                  "34": {
+                    "hex": "#ffffff"
+                  },
+                  "35": {
+                    "hex": "#ffffff"
+                  },
+                  "36": {
+                    "hex": "#ffffff"
+                  },
+                  "37": {
+                    "hex": "#ffffff"
+                  },
+                  "38": {
+                    "hex": "#ffffff"
+                  },
+                  "39": {
+                    "hex": "#ffffff"
+                  },
+                  "4": {
+                    "hex": "#ffffff"
+                  },
+                  "40": {
+                    "hex": "#ffffff"
+                  },
+                  "41": {
+                    "hex": "#ffffff"
+                  },
+                  "42": {
+                    "hex": "#ffffff"
+                  },
+                  "43": {
+                    "hex": "#ffffff"
+                  },
+                  "44": {
+                    "hex": "#090909"
+                  },
+                  "45": {
+                    "hex": "#ffffff"
+                  },
+                  "46": {
+                    "hex": "#ffffff"
+                  },
+                  "47": {
+                    "hex": "#ffffff"
+                  },
+                  "48": {
+                    "hex": "#ffffff"
+                  },
+                  "49": {
+                    "hex": "#ffffff"
+                  },
+                  "5": {
+                    "hex": "#090909"
+                  },
+                  "50": {
+                    "hex": "#ffffff"
+                  },
+                  "51": {
+                    "hex": "#ffffff"
+                  },
+                  "52": {
+                    "hex": "#ffffff"
+                  },
+                  "53": {
+                    "hex": "#ffffff"
+                  },
+                  "54": {
+                    "hex": "#090909"
+                  },
+                  "55": {
+                    "hex": "#090909"
+                  },
+                  "56": {
+                    "hex": "#090909"
+                  },
+                  "57": {
+                    "hex": "#ffffff"
+                  },
+                  "58": {
+                    "hex": "#ffffff"
+                  },
+                  "59": {
+                    "hex": "#ffffff"
+                  },
+                  "6": {
+                    "hex": "#090909"
+                  },
+                  "60": {
+                    "hex": "#ffffff"
+                  },
+                  "61": {
+                    "hex": "#ffffff"
+                  },
+                  "62": {
+                    "hex": "#ffffff"
+                  },
+                  "63": {
+                    "hex": "#ffffff"
+                  },
+                  "64": {
+                    "hex": "#ffffff"
+                  },
+                  "65": {
+                    "hex": "#ffffff"
+                  },
+                  "66": {
+                    "hex": "#ffffff"
+                  },
+                  "67": {
+                    "hex": "#ffffff"
+                  },
+                  "68": {
+                    "hex": "#ffffff"
+                  },
+                  "69": {
+                    "hex": "#ffffff"
+                  },
+                  "7": {
+                    "hex": "#ffffff"
+                  },
+                  "70": {
+                    "hex": "#ffffff"
+                  },
+                  "71": {
+                    "hex": "#ffffff"
+                  },
+                  "72": {
+                    "hex": "#ffffff"
+                  },
+                  "73": {
+                    "hex": "#ffffff"
+                  },
+                  "74": {
+                    "hex": "#ffffff"
+                  },
+                  "75": {
+                    "hex": "#ffffff"
+                  },
+                  "76": {
+                    "hex": "#ffffff"
+                  },
+                  "77": {
+                    "hex": "#ffffff"
+                  },
+                  "78": {
+                    "hex": "#ffffff"
+                  },
+                  "79": {
+                    "hex": "#090909"
+                  },
+                  "8": {
+                    "hex": "#ffffff"
+                  },
+                  "80": {
+                    "hex": "#090909"
+                  },
+                  "81": {
+                    "hex": "#090909"
+                  },
+                  "82": {
+                    "hex": "#090909"
+                  },
+                  "83": {
+                    "hex": "#ffffff"
+                  },
+                  "84": {
+                    "hex": "#ffffff"
+                  },
+                  "85": {
+                    "hex": "#ffffff"
+                  },
+                  "86": {
+                    "hex": "#ffffff"
+                  },
+                  "87": {
+                    "hex": "#ffffff"
+                  },
+                  "88": {
+                    "hex": "#090909"
+                  },
+                  "89": {
+                    "hex": "#090909"
+                  },
+                  "9": {
+                    "hex": "#ffffff"
+                  },
+                  "90": {
+                    "hex": "#090909"
+                  },
+                  "91": {
+                    "hex": "#090909"
+                  },
+                  "92": {
+                    "hex": "#ffffff"
+                  },
+                  "93": {
+                    "hex": "#ffffff"
+                  },
+                  "94": {
+                    "hex": "#ffffff"
+                  },
+                  "95": {
+                    "hex": "#ffffff"
+                  },
+                  "96": {
+                    "hex": "#ffffff"
+                  },
+                  "97": {
+                    "hex": "#ffffff"
+                  },
+                  "98": {
+                    "hex": "#090909"
+                  },
+                  "99": {
+                    "hex": "#090909"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "3": {
+        "curveType": "LINEAR",
+        "length": 8,
+        "lightingSlots": {
+          "infoMap": {
+            "PERKEY_BRANDING": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "0": {
+                    "hex": "#ffffff"
+                  },
+                  "1": {
+                    "hex": "#ffffff"
+                  },
+                  "2": {
+                    "hex": "#090909"
+                  }
+                }
+              }
+            },
+            "PERKEY_CONSUMER": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "0": {
+                    "hex": "#ffffff"
+                  },
+                  "181": {
+                    "hex": "#ffffff"
+                  },
+                  "182": {
+                    "hex": "#ffffff"
+                  },
+                  "183": {
+                    "hex": "#ffffff"
+                  },
+                  "205": {
+                    "hex": "#ffffff"
+                  },
+                  "226": {
+                    "hex": "#ffffff"
+                  }
+                }
+              }
+            },
+            "PERKEY_GKEY": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "0": {
+                    "hex": "#ffffff"
+                  },
+                  "1": {
+                    "hex": "#ffffff"
+                  },
+                  "2": {
+                    "hex": "#ffffff"
+                  },
+                  "3": {
+                    "hex": "#090909"
+                  },
+                  "4": {
+                    "hex": "#090909"
+                  },
+                  "5": {
+                    "hex": "#090909"
+                  },
+                  "6": {
+                    "hex": "#ffffff"
+                  },
+                  "7": {
+                    "hex": "#ffffff"
+                  },
+                  "8": {
+                    "hex": "#ffffff"
+                  },
+                  "9": {
+                    "hex": "#ffffff"
+                  }
+                }
+              }
+            },
+            "PERKEY_INDICATOR": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "0": {
+                    "hex": "#ffffff"
+                  },
+                  "1": {
+                    "hex": "#ffffff"
+                  },
+                  "2": {
+                    "hex": "#ffffff"
+                  },
+                  "3": {
+                    "hex": "#ffffff"
+                  },
+                  "4": {
+                    "hex": "#ffffff"
+                  },
+                  "5": {
+                    "hex": "#ffffff"
+                  }
+                }
+              }
+            },
+            "PERKEY_KEYBOARD": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "0": {
+                    "hex": "#ffffff"
+                  },
+                  "10": {
+                    "hex": "#090909"
+                  },
+                  "100": {
+                    "hex": "#090909"
+                  },
+                  "101": {
+                    "hex": "#090909"
+                  },
+                  "11": {
+                    "hex": "#090909"
+                  },
+                  "12": {
+                    "hex": "#ffffff"
+                  },
+                  "13": {
+                    "hex": "#090909"
+                  },
+                  "135": {
+                    "hex": "#090909"
+                  },
+                  "136": {
+                    "hex": "#090909"
+                  },
+                  "137": {
+                    "hex": "#ffffff"
+                  },
+                  "138": {
+                    "hex": "#090909"
+                  },
+                  "139": {
+                    "hex": "#090909"
+                  },
+                  "14": {
+                    "hex": "#090909"
+                  },
+                  "15": {
+                    "hex": "#090909"
+                  },
+                  "16": {
+                    "hex": "#090909"
+                  },
+                  "17": {
+                    "hex": "#090909"
+                  },
+                  "18": {
+                    "hex": "#ffffff"
+                  },
+                  "19": {
+                    "hex": "#ffffff"
+                  },
+                  "20": {
+                    "hex": "#ffffff"
+                  },
+                  "21": {
+                    "hex": "#ffffff"
+                  },
+                  "22": {
+                    "hex": "#090909"
+                  },
+                  "224": {
+                    "hex": "#090909"
+                  },
+                  "225": {
+                    "hex": "#090909"
+                  },
+                  "226": {
+                    "hex": "#090909"
+                  },
+                  "227": {
+                    "hex": "#090909"
+                  },
+                  "228": {
+                    "hex": "#090909"
+                  },
+                  "229": {
+                    "hex": "#090909"
+                  },
+                  "23": {
+                    "hex": "#ffffff"
+                  },
+                  "230": {
+                    "hex": "#090909"
+                  },
+                  "231": {
+                    "hex": "#090909"
+                  },
+                  "24": {
+                    "hex": "#ffffff"
+                  },
+                  "25": {
+                    "hex": "#090909"
+                  },
+                  "26": {
+                    "hex": "#ffffff"
+                  },
+                  "27": {
+                    "hex": "#090909"
+                  },
+                  "28": {
+                    "hex": "#ffffff"
+                  },
+                  "29": {
+                    "hex": "#090909"
+                  },
+                  "30": {
+                    "hex": "#ffffff"
+                  },
+                  "31": {
+                    "hex": "#ffffff"
+                  },
+                  "32": {
+                    "hex": "#ffffff"
+                  },
+                  "33": {
+                    "hex": "#ffffff"
+                  },
+                  "34": {
+                    "hex": "#ffffff"
+                  },
+                  "35": {
+                    "hex": "#ffffff"
+                  },
+                  "36": {
+                    "hex": "#ffffff"
+                  },
+                  "37": {
+                    "hex": "#ffffff"
+                  },
+                  "38": {
+                    "hex": "#ffffff"
+                  },
+                  "39": {
+                    "hex": "#ffffff"
+                  },
+                  "4": {
+                    "hex": "#090909"
+                  },
+                  "40": {
+                    "hex": "#090909"
+                  },
+                  "41": {
+                    "hex": "#ffffff"
+                  },
+                  "42": {
+                    "hex": "#ffffff"
+                  },
+                  "43": {
+                    "hex": "#ffffff"
+                  },
+                  "44": {
+                    "hex": "#090909"
+                  },
+                  "45": {
+                    "hex": "#ffffff"
+                  },
+                  "46": {
+                    "hex": "#ffffff"
+                  },
+                  "47": {
+                    "hex": "#ffffff"
+                  },
+                  "48": {
+                    "hex": "#ffffff"
+                  },
+                  "49": {
+                    "hex": "#ffffff"
+                  },
+                  "5": {
+                    "hex": "#090909"
+                  },
+                  "50": {
+                    "hex": "#090909"
+                  },
+                  "51": {
+                    "hex": "#090909"
+                  },
+                  "52": {
+                    "hex": "#090909"
+                  },
+                  "53": {
+                    "hex": "#ffffff"
+                  },
+                  "54": {
+                    "hex": "#090909"
+                  },
+                  "55": {
+                    "hex": "#090909"
+                  },
+                  "56": {
+                    "hex": "#090909"
+                  },
+                  "57": {
+                    "hex": "#090909"
+                  },
+                  "58": {
+                    "hex": "#ffffff"
+                  },
+                  "59": {
+                    "hex": "#ffffff"
+                  },
+                  "6": {
+                    "hex": "#090909"
+                  },
+                  "60": {
+                    "hex": "#ffffff"
+                  },
+                  "61": {
+                    "hex": "#ffffff"
+                  },
+                  "62": {
+                    "hex": "#ffffff"
+                  },
+                  "63": {
+                    "hex": "#ffffff"
+                  },
+                  "64": {
+                    "hex": "#ffffff"
+                  },
+                  "65": {
+                    "hex": "#ffffff"
+                  },
+                  "66": {
+                    "hex": "#ffffff"
+                  },
+                  "67": {
+                    "hex": "#ffffff"
+                  },
+                  "68": {
+                    "hex": "#ffffff"
+                  },
+                  "69": {
+                    "hex": "#ffffff"
+                  },
+                  "7": {
+                    "hex": "#090909"
+                  },
+                  "70": {
+                    "hex": "#ffffff"
+                  },
+                  "71": {
+                    "hex": "#ffffff"
+                  },
+                  "72": {
+                    "hex": "#ffffff"
+                  },
+                  "73": {
+                    "hex": "#ffffff"
+                  },
+                  "74": {
+                    "hex": "#ffffff"
+                  },
+                  "75": {
+                    "hex": "#ffffff"
+                  },
+                  "76": {
+                    "hex": "#ffffff"
+                  },
+                  "77": {
+                    "hex": "#ffffff"
+                  },
+                  "78": {
+                    "hex": "#ffffff"
+                  },
+                  "79": {
+                    "hex": "#090909"
+                  },
+                  "8": {
+                    "hex": "#ffffff"
+                  },
+                  "80": {
+                    "hex": "#090909"
+                  },
+                  "81": {
+                    "hex": "#090909"
+                  },
+                  "82": {
+                    "hex": "#090909"
+                  },
+                  "83": {
+                    "hex": "#ffffff"
+                  },
+                  "84": {
+                    "hex": "#ffffff"
+                  },
+                  "85": {
+                    "hex": "#ffffff"
+                  },
+                  "86": {
+                    "hex": "#ffffff"
+                  },
+                  "87": {
+                    "hex": "#090909"
+                  },
+                  "88": {
+                    "hex": "#090909"
+                  },
+                  "89": {
+                    "hex": "#090909"
+                  },
+                  "9": {
+                    "hex": "#090909"
+                  },
+                  "90": {
+                    "hex": "#090909"
+                  },
+                  "91": {
+                    "hex": "#090909"
+                  },
+                  "92": {
+                    "hex": "#090909"
+                  },
+                  "93": {
+                    "hex": "#090909"
+                  },
+                  "94": {
+                    "hex": "#090909"
+                  },
+                  "95": {
+                    "hex": "#ffffff"
+                  },
+                  "96": {
+                    "hex": "#ffffff"
+                  },
+                  "97": {
+                    "hex": "#ffffff"
+                  },
+                  "98": {
+                    "hex": "#090909"
+                  },
+                  "99": {
+                    "hex": "#090909"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "4": {
+        "curveType": "LINEAR",
+        "length": 8,
+        "lightingSlots": {
+          "infoMap": {
+            "PERKEY_BRANDING": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "0": {
+                    "hex": "#ffffff"
+                  },
+                  "1": {
+                    "hex": "#ffffff"
+                  },
+                  "2": {
+                    "hex": "#090909"
+                  }
+                }
+              }
+            },
+            "PERKEY_CONSUMER": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "0": {
+                    "hex": "#ffffff"
+                  },
+                  "181": {
+                    "hex": "#ffffff"
+                  },
+                  "182": {
+                    "hex": "#ffffff"
+                  },
+                  "183": {
+                    "hex": "#ffffff"
+                  },
+                  "205": {
+                    "hex": "#ffffff"
+                  },
+                  "226": {
+                    "hex": "#ffffff"
+                  }
+                }
+              }
+            },
+            "PERKEY_GKEY": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "0": {
+                    "hex": "#ffffff"
+                  },
+                  "1": {
+                    "hex": "#ffffff"
+                  },
+                  "2": {
+                    "hex": "#090909"
+                  },
+                  "3": {
+                    "hex": "#090909"
+                  },
+                  "4": {
+                    "hex": "#090909"
+                  },
+                  "5": {
+                    "hex": "#090909"
+                  },
+                  "6": {
+                    "hex": "#ffffff"
+                  },
+                  "7": {
+                    "hex": "#ffffff"
+                  },
+                  "8": {
+                    "hex": "#ffffff"
+                  },
+                  "9": {
+                    "hex": "#ffffff"
+                  }
+                }
+              }
+            },
+            "PERKEY_INDICATOR": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "0": {
+                    "hex": "#ffffff"
+                  },
+                  "1": {
+                    "hex": "#ffffff"
+                  },
+                  "2": {
+                    "hex": "#ffffff"
+                  },
+                  "3": {
+                    "hex": "#ffffff"
+                  },
+                  "4": {
+                    "hex": "#ffffff"
+                  },
+                  "5": {
+                    "hex": "#ffffff"
+                  }
+                }
+              }
+            },
+            "PERKEY_KEYBOARD": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "0": {
+                    "hex": "#ffffff"
+                  },
+                  "10": {
+                    "hex": "#090909"
+                  },
+                  "100": {
+                    "hex": "#090909"
+                  },
+                  "101": {
+                    "hex": "#090909"
+                  },
+                  "11": {
+                    "hex": "#090909"
+                  },
+                  "12": {
+                    "hex": "#090909"
+                  },
+                  "13": {
+                    "hex": "#090909"
+                  },
+                  "135": {
+                    "hex": "#090909"
+                  },
+                  "136": {
+                    "hex": "#090909"
+                  },
+                  "137": {
+                    "hex": "#ffffff"
+                  },
+                  "138": {
+                    "hex": "#090909"
+                  },
+                  "139": {
+                    "hex": "#090909"
+                  },
+                  "14": {
+                    "hex": "#090909"
+                  },
+                  "15": {
+                    "hex": "#090909"
+                  },
+                  "16": {
+                    "hex": "#090909"
+                  },
+                  "17": {
+                    "hex": "#090909"
+                  },
+                  "18": {
+                    "hex": "#090909"
+                  },
+                  "19": {
+                    "hex": "#090909"
+                  },
+                  "20": {
+                    "hex": "#090909"
+                  },
+                  "21": {
+                    "hex": "#090909"
+                  },
+                  "22": {
+                    "hex": "#090909"
+                  },
+                  "224": {
+                    "hex": "#090909"
+                  },
+                  "225": {
+                    "hex": "#090909"
+                  },
+                  "226": {
+                    "hex": "#090909"
+                  },
+                  "227": {
+                    "hex": "#090909"
+                  },
+                  "228": {
+                    "hex": "#090909"
+                  },
+                  "229": {
+                    "hex": "#090909"
+                  },
+                  "23": {
+                    "hex": "#090909"
+                  },
+                  "230": {
+                    "hex": "#090909"
+                  },
+                  "231": {
+                    "hex": "#090909"
+                  },
+                  "24": {
+                    "hex": "#090909"
+                  },
+                  "25": {
+                    "hex": "#090909"
+                  },
+                  "26": {
+                    "hex": "#090909"
+                  },
+                  "27": {
+                    "hex": "#090909"
+                  },
+                  "28": {
+                    "hex": "#090909"
+                  },
+                  "29": {
+                    "hex": "#090909"
+                  },
+                  "30": {
+                    "hex": "#ffffff"
+                  },
+                  "31": {
+                    "hex": "#ffffff"
+                  },
+                  "32": {
+                    "hex": "#ffffff"
+                  },
+                  "33": {
+                    "hex": "#ffffff"
+                  },
+                  "34": {
+                    "hex": "#ffffff"
+                  },
+                  "35": {
+                    "hex": "#ffffff"
+                  },
+                  "36": {
+                    "hex": "#ffffff"
+                  },
+                  "37": {
+                    "hex": "#ffffff"
+                  },
+                  "38": {
+                    "hex": "#ffffff"
+                  },
+                  "39": {
+                    "hex": "#ffffff"
+                  },
+                  "4": {
+                    "hex": "#090909"
+                  },
+                  "40": {
+                    "hex": "#090909"
+                  },
+                  "41": {
+                    "hex": "#ffffff"
+                  },
+                  "42": {
+                    "hex": "#ffffff"
+                  },
+                  "43": {
+                    "hex": "#090909"
+                  },
+                  "44": {
+                    "hex": "#090909"
+                  },
+                  "45": {
+                    "hex": "#ffffff"
+                  },
+                  "46": {
+                    "hex": "#ffffff"
+                  },
+                  "47": {
+                    "hex": "#090909"
+                  },
+                  "48": {
+                    "hex": "#090909"
+                  },
+                  "49": {
+                    "hex": "#090909"
+                  },
+                  "5": {
+                    "hex": "#090909"
+                  },
+                  "50": {
+                    "hex": "#090909"
+                  },
+                  "51": {
+                    "hex": "#090909"
+                  },
+                  "52": {
+                    "hex": "#090909"
+                  },
+                  "53": {
+                    "hex": "#ffffff"
+                  },
+                  "54": {
+                    "hex": "#090909"
+                  },
+                  "55": {
+                    "hex": "#090909"
+                  },
+                  "56": {
+                    "hex": "#090909"
+                  },
+                  "57": {
+                    "hex": "#090909"
+                  },
+                  "58": {
+                    "hex": "#ffffff"
+                  },
+                  "59": {
+                    "hex": "#ffffff"
+                  },
+                  "6": {
+                    "hex": "#090909"
+                  },
+                  "60": {
+                    "hex": "#ffffff"
+                  },
+                  "61": {
+                    "hex": "#ffffff"
+                  },
+                  "62": {
+                    "hex": "#ffffff"
+                  },
+                  "63": {
+                    "hex": "#ffffff"
+                  },
+                  "64": {
+                    "hex": "#ffffff"
+                  },
+                  "65": {
+                    "hex": "#ffffff"
+                  },
+                  "66": {
+                    "hex": "#ffffff"
+                  },
+                  "67": {
+                    "hex": "#ffffff"
+                  },
+                  "68": {
+                    "hex": "#ffffff"
+                  },
+                  "69": {
+                    "hex": "#ffffff"
+                  },
+                  "7": {
+                    "hex": "#090909"
+                  },
+                  "70": {
+                    "hex": "#ffffff"
+                  },
+                  "71": {
+                    "hex": "#ffffff"
+                  },
+                  "72": {
+                    "hex": "#ffffff"
+                  },
+                  "73": {
+                    "hex": "#ffffff"
+                  },
+                  "74": {
+                    "hex": "#ffffff"
+                  },
+                  "75": {
+                    "hex": "#ffffff"
+                  },
+                  "76": {
+                    "hex": "#090909"
+                  },
+                  "77": {
+                    "hex": "#090909"
+                  },
+                  "78": {
+                    "hex": "#090909"
+                  },
+                  "79": {
+                    "hex": "#090909"
+                  },
+                  "8": {
+                    "hex": "#090909"
+                  },
+                  "80": {
+                    "hex": "#090909"
+                  },
+                  "81": {
+                    "hex": "#090909"
+                  },
+                  "82": {
+                    "hex": "#090909"
+                  },
+                  "83": {
+                    "hex": "#ffffff"
+                  },
+                  "84": {
+                    "hex": "#ffffff"
+                  },
+                  "85": {
+                    "hex": "#ffffff"
+                  },
+                  "86": {
+                    "hex": "#ffffff"
+                  },
+                  "87": {
+                    "hex": "#090909"
+                  },
+                  "88": {
+                    "hex": "#090909"
+                  },
+                  "89": {
+                    "hex": "#090909"
+                  },
+                  "9": {
+                    "hex": "#090909"
+                  },
+                  "90": {
+                    "hex": "#090909"
+                  },
+                  "91": {
+                    "hex": "#090909"
+                  },
+                  "92": {
+                    "hex": "#090909"
+                  },
+                  "93": {
+                    "hex": "#090909"
+                  },
+                  "94": {
+                    "hex": "#090909"
+                  },
+                  "95": {
+                    "hex": "#090909"
+                  },
+                  "96": {
+                    "hex": "#090909"
+                  },
+                  "97": {
+                    "hex": "#090909"
+                  },
+                  "98": {
+                    "hex": "#090909"
+                  },
+                  "99": {
+                    "hex": "#090909"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "5": {
+        "curveType": "LINEAR",
+        "length": 8,
+        "lightingSlots": {
+          "infoMap": {
+            "PERKEY_BRANDING": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "0": {
+                    "hex": "#ffffff"
+                  },
+                  "1": {
+                    "hex": "#ffffff"
+                  },
+                  "2": {
+                    "hex": "#090909"
+                  }
+                }
+              }
+            },
+            "PERKEY_CONSUMER": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "0": {
+                    "hex": "#ffffff"
+                  },
+                  "181": {
+                    "hex": "#ffffff"
+                  },
+                  "182": {
+                    "hex": "#ffffff"
+                  },
+                  "183": {
+                    "hex": "#ffffff"
+                  },
+                  "205": {
+                    "hex": "#ffffff"
+                  },
+                  "226": {
+                    "hex": "#ffffff"
+                  }
+                }
+              }
+            },
+            "PERKEY_GKEY": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "0": {
+                    "hex": "#ffffff"
+                  },
+                  "1": {
+                    "hex": "#090909"
+                  },
+                  "2": {
+                    "hex": "#090909"
+                  },
+                  "3": {
+                    "hex": "#090909"
+                  },
+                  "4": {
+                    "hex": "#090909"
+                  },
+                  "5": {
+                    "hex": "#090909"
+                  },
+                  "6": {
+                    "hex": "#ffffff"
+                  },
+                  "7": {
+                    "hex": "#ffffff"
+                  },
+                  "8": {
+                    "hex": "#ffffff"
+                  },
+                  "9": {
+                    "hex": "#ffffff"
+                  }
+                }
+              }
+            },
+            "PERKEY_INDICATOR": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "0": {
+                    "hex": "#ffffff"
+                  },
+                  "1": {
+                    "hex": "#ffffff"
+                  },
+                  "2": {
+                    "hex": "#ffffff"
+                  },
+                  "3": {
+                    "hex": "#ffffff"
+                  },
+                  "4": {
+                    "hex": "#ffffff"
+                  },
+                  "5": {
+                    "hex": "#ffffff"
+                  }
+                }
+              }
+            },
+            "PERKEY_KEYBOARD": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "0": {
+                    "hex": "#ffffff"
+                  },
+                  "10": {
+                    "hex": "#090909"
+                  },
+                  "100": {
+                    "hex": "#090909"
+                  },
+                  "101": {
+                    "hex": "#090909"
+                  },
+                  "11": {
+                    "hex": "#090909"
+                  },
+                  "12": {
+                    "hex": "#090909"
+                  },
+                  "13": {
+                    "hex": "#090909"
+                  },
+                  "135": {
+                    "hex": "#090909"
+                  },
+                  "136": {
+                    "hex": "#090909"
+                  },
+                  "137": {
+                    "hex": "#090909"
+                  },
+                  "138": {
+                    "hex": "#090909"
+                  },
+                  "139": {
+                    "hex": "#090909"
+                  },
+                  "14": {
+                    "hex": "#090909"
+                  },
+                  "15": {
+                    "hex": "#090909"
+                  },
+                  "16": {
+                    "hex": "#090909"
+                  },
+                  "17": {
+                    "hex": "#090909"
+                  },
+                  "18": {
+                    "hex": "#090909"
+                  },
+                  "19": {
+                    "hex": "#090909"
+                  },
+                  "20": {
+                    "hex": "#090909"
+                  },
+                  "21": {
+                    "hex": "#090909"
+                  },
+                  "22": {
+                    "hex": "#090909"
+                  },
+                  "224": {
+                    "hex": "#090909"
+                  },
+                  "225": {
+                    "hex": "#090909"
+                  },
+                  "226": {
+                    "hex": "#090909"
+                  },
+                  "227": {
+                    "hex": "#090909"
+                  },
+                  "228": {
+                    "hex": "#090909"
+                  },
+                  "229": {
+                    "hex": "#090909"
+                  },
+                  "23": {
+                    "hex": "#090909"
+                  },
+                  "230": {
+                    "hex": "#090909"
+                  },
+                  "231": {
+                    "hex": "#090909"
+                  },
+                  "24": {
+                    "hex": "#090909"
+                  },
+                  "25": {
+                    "hex": "#090909"
+                  },
+                  "26": {
+                    "hex": "#090909"
+                  },
+                  "27": {
+                    "hex": "#090909"
+                  },
+                  "28": {
+                    "hex": "#090909"
+                  },
+                  "29": {
+                    "hex": "#090909"
+                  },
+                  "30": {
+                    "hex": "#090909"
+                  },
+                  "31": {
+                    "hex": "#090909"
+                  },
+                  "32": {
+                    "hex": "#090909"
+                  },
+                  "33": {
+                    "hex": "#090909"
+                  },
+                  "34": {
+                    "hex": "#090909"
+                  },
+                  "35": {
+                    "hex": "#090909"
+                  },
+                  "36": {
+                    "hex": "#090909"
+                  },
+                  "37": {
+                    "hex": "#090909"
+                  },
+                  "38": {
+                    "hex": "#090909"
+                  },
+                  "39": {
+                    "hex": "#090909"
+                  },
+                  "4": {
+                    "hex": "#090909"
+                  },
+                  "40": {
+                    "hex": "#090909"
+                  },
+                  "41": {
+                    "hex": "#ffffff"
+                  },
+                  "42": {
+                    "hex": "#090909"
+                  },
+                  "43": {
+                    "hex": "#090909"
+                  },
+                  "44": {
+                    "hex": "#090909"
+                  },
+                  "45": {
+                    "hex": "#090909"
+                  },
+                  "46": {
+                    "hex": "#090909"
+                  },
+                  "47": {
+                    "hex": "#090909"
+                  },
+                  "48": {
+                    "hex": "#090909"
+                  },
+                  "49": {
+                    "hex": "#090909"
+                  },
+                  "5": {
+                    "hex": "#090909"
+                  },
+                  "50": {
+                    "hex": "#090909"
+                  },
+                  "51": {
+                    "hex": "#090909"
+                  },
+                  "52": {
+                    "hex": "#090909"
+                  },
+                  "53": {
+                    "hex": "#090909"
+                  },
+                  "54": {
+                    "hex": "#090909"
+                  },
+                  "55": {
+                    "hex": "#090909"
+                  },
+                  "56": {
+                    "hex": "#090909"
+                  },
+                  "57": {
+                    "hex": "#090909"
+                  },
+                  "58": {
+                    "hex": "#ffffff"
+                  },
+                  "59": {
+                    "hex": "#ffffff"
+                  },
+                  "6": {
+                    "hex": "#090909"
+                  },
+                  "60": {
+                    "hex": "#ffffff"
+                  },
+                  "61": {
+                    "hex": "#ffffff"
+                  },
+                  "62": {
+                    "hex": "#ffffff"
+                  },
+                  "63": {
+                    "hex": "#ffffff"
+                  },
+                  "64": {
+                    "hex": "#ffffff"
+                  },
+                  "65": {
+                    "hex": "#ffffff"
+                  },
+                  "66": {
+                    "hex": "#ffffff"
+                  },
+                  "67": {
+                    "hex": "#ffffff"
+                  },
+                  "68": {
+                    "hex": "#ffffff"
+                  },
+                  "69": {
+                    "hex": "#ffffff"
+                  },
+                  "7": {
+                    "hex": "#090909"
+                  },
+                  "70": {
+                    "hex": "#ffffff"
+                  },
+                  "71": {
+                    "hex": "#ffffff"
+                  },
+                  "72": {
+                    "hex": "#ffffff"
+                  },
+                  "73": {
+                    "hex": "#090909"
+                  },
+                  "74": {
+                    "hex": "#090909"
+                  },
+                  "75": {
+                    "hex": "#090909"
+                  },
+                  "76": {
+                    "hex": "#090909"
+                  },
+                  "77": {
+                    "hex": "#090909"
+                  },
+                  "78": {
+                    "hex": "#090909"
+                  },
+                  "79": {
+                    "hex": "#090909"
+                  },
+                  "8": {
+                    "hex": "#090909"
+                  },
+                  "80": {
+                    "hex": "#090909"
+                  },
+                  "81": {
+                    "hex": "#090909"
+                  },
+                  "82": {
+                    "hex": "#090909"
+                  },
+                  "83": {
+                    "hex": "#090909"
+                  },
+                  "84": {
+                    "hex": "#090909"
+                  },
+                  "85": {
+                    "hex": "#090909"
+                  },
+                  "86": {
+                    "hex": "#090909"
+                  },
+                  "87": {
+                    "hex": "#090909"
+                  },
+                  "88": {
+                    "hex": "#090909"
+                  },
+                  "89": {
+                    "hex": "#090909"
+                  },
+                  "9": {
+                    "hex": "#090909"
+                  },
+                  "90": {
+                    "hex": "#090909"
+                  },
+                  "91": {
+                    "hex": "#090909"
+                  },
+                  "92": {
+                    "hex": "#090909"
+                  },
+                  "93": {
+                    "hex": "#090909"
+                  },
+                  "94": {
+                    "hex": "#090909"
+                  },
+                  "95": {
+                    "hex": "#090909"
+                  },
+                  "96": {
+                    "hex": "#090909"
+                  },
+                  "97": {
+                    "hex": "#090909"
+                  },
+                  "98": {
+                    "hex": "#090909"
+                  },
+                  "99": {
+                    "hex": "#090909"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "6": {
+        "curveType": "LINEAR",
+        "length": 8,
+        "lightingSlots": {
+          "infoMap": {
+            "PERKEY_BRANDING": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "0": {
+                    "hex": "#ffffff"
+                  },
+                  "1": {
+                    "hex": "#ffffff"
+                  },
+                  "2": {
+                    "hex": "#090909"
+                  }
+                }
+              }
+            },
+            "PERKEY_CONSUMER": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "0": {
+                    "hex": "#ffffff"
+                  },
+                  "181": {
+                    "hex": "#090909"
+                  },
+                  "182": {
+                    "hex": "#090909"
+                  },
+                  "183": {
+                    "hex": "#090909"
+                  },
+                  "205": {
+                    "hex": "#090909"
+                  },
+                  "226": {
+                    "hex": "#ffffff"
+                  }
+                }
+              }
+            },
+            "PERKEY_GKEY": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "0": {
+                    "hex": "#ffffff"
+                  },
+                  "1": {
+                    "hex": "#090909"
+                  },
+                  "2": {
+                    "hex": "#090909"
+                  },
+                  "3": {
+                    "hex": "#090909"
+                  },
+                  "4": {
+                    "hex": "#090909"
+                  },
+                  "5": {
+                    "hex": "#090909"
+                  },
+                  "6": {
+                    "hex": "#ffffff"
+                  },
+                  "7": {
+                    "hex": "#ffffff"
+                  },
+                  "8": {
+                    "hex": "#ffffff"
+                  },
+                  "9": {
+                    "hex": "#ffffff"
+                  }
+                }
+              }
+            },
+            "PERKEY_INDICATOR": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "0": {
+                    "hex": "#ffffff"
+                  },
+                  "1": {
+                    "hex": "#ffffff"
+                  },
+                  "2": {
+                    "hex": "#ffffff"
+                  },
+                  "3": {
+                    "hex": "#ffffff"
+                  },
+                  "4": {
+                    "hex": "#ffffff"
+                  },
+                  "5": {
+                    "hex": "#ffffff"
+                  }
+                }
+              }
+            },
+            "PERKEY_KEYBOARD": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "0": {
+                    "hex": "#ffffff"
+                  },
+                  "10": {
+                    "hex": "#090909"
+                  },
+                  "100": {
+                    "hex": "#090909"
+                  },
+                  "101": {
+                    "hex": "#090909"
+                  },
+                  "11": {
+                    "hex": "#090909"
+                  },
+                  "12": {
+                    "hex": "#090909"
+                  },
+                  "13": {
+                    "hex": "#090909"
+                  },
+                  "135": {
+                    "hex": "#090909"
+                  },
+                  "136": {
+                    "hex": "#090909"
+                  },
+                  "137": {
+                    "hex": "#090909"
+                  },
+                  "138": {
+                    "hex": "#090909"
+                  },
+                  "139": {
+                    "hex": "#090909"
+                  },
+                  "14": {
+                    "hex": "#090909"
+                  },
+                  "15": {
+                    "hex": "#090909"
+                  },
+                  "16": {
+                    "hex": "#090909"
+                  },
+                  "17": {
+                    "hex": "#090909"
+                  },
+                  "18": {
+                    "hex": "#090909"
+                  },
+                  "19": {
+                    "hex": "#090909"
+                  },
+                  "20": {
+                    "hex": "#090909"
+                  },
+                  "21": {
+                    "hex": "#090909"
+                  },
+                  "22": {
+                    "hex": "#090909"
+                  },
+                  "224": {
+                    "hex": "#090909"
+                  },
+                  "225": {
+                    "hex": "#090909"
+                  },
+                  "226": {
+                    "hex": "#090909"
+                  },
+                  "227": {
+                    "hex": "#090909"
+                  },
+                  "228": {
+                    "hex": "#090909"
+                  },
+                  "229": {
+                    "hex": "#090909"
+                  },
+                  "23": {
+                    "hex": "#090909"
+                  },
+                  "230": {
+                    "hex": "#090909"
+                  },
+                  "231": {
+                    "hex": "#090909"
+                  },
+                  "24": {
+                    "hex": "#090909"
+                  },
+                  "25": {
+                    "hex": "#090909"
+                  },
+                  "26": {
+                    "hex": "#090909"
+                  },
+                  "27": {
+                    "hex": "#090909"
+                  },
+                  "28": {
+                    "hex": "#090909"
+                  },
+                  "29": {
+                    "hex": "#090909"
+                  },
+                  "30": {
+                    "hex": "#090909"
+                  },
+                  "31": {
+                    "hex": "#090909"
+                  },
+                  "32": {
+                    "hex": "#090909"
+                  },
+                  "33": {
+                    "hex": "#090909"
+                  },
+                  "34": {
+                    "hex": "#090909"
+                  },
+                  "35": {
+                    "hex": "#090909"
+                  },
+                  "36": {
+                    "hex": "#090909"
+                  },
+                  "37": {
+                    "hex": "#090909"
+                  },
+                  "38": {
+                    "hex": "#090909"
+                  },
+                  "39": {
+                    "hex": "#090909"
+                  },
+                  "4": {
+                    "hex": "#090909"
+                  },
+                  "40": {
+                    "hex": "#090909"
+                  },
+                  "41": {
+                    "hex": "#090909"
+                  },
+                  "42": {
+                    "hex": "#090909"
+                  },
+                  "43": {
+                    "hex": "#090909"
+                  },
+                  "44": {
+                    "hex": "#090909"
+                  },
+                  "45": {
+                    "hex": "#090909"
+                  },
+                  "46": {
+                    "hex": "#090909"
+                  },
+                  "47": {
+                    "hex": "#090909"
+                  },
+                  "48": {
+                    "hex": "#090909"
+                  },
+                  "49": {
+                    "hex": "#090909"
+                  },
+                  "5": {
+                    "hex": "#090909"
+                  },
+                  "50": {
+                    "hex": "#090909"
+                  },
+                  "51": {
+                    "hex": "#090909"
+                  },
+                  "52": {
+                    "hex": "#090909"
+                  },
+                  "53": {
+                    "hex": "#090909"
+                  },
+                  "54": {
+                    "hex": "#090909"
+                  },
+                  "55": {
+                    "hex": "#090909"
+                  },
+                  "56": {
+                    "hex": "#090909"
+                  },
+                  "57": {
+                    "hex": "#090909"
+                  },
+                  "58": {
+                    "hex": "#090909"
+                  },
+                  "59": {
+                    "hex": "#090909"
+                  },
+                  "6": {
+                    "hex": "#090909"
+                  },
+                  "60": {
+                    "hex": "#090909"
+                  },
+                  "61": {
+                    "hex": "#090909"
+                  },
+                  "62": {
+                    "hex": "#090909"
+                  },
+                  "63": {
+                    "hex": "#090909"
+                  },
+                  "64": {
+                    "hex": "#090909"
+                  },
+                  "65": {
+                    "hex": "#090909"
+                  },
+                  "66": {
+                    "hex": "#090909"
+                  },
+                  "67": {
+                    "hex": "#090909"
+                  },
+                  "68": {
+                    "hex": "#090909"
+                  },
+                  "69": {
+                    "hex": "#090909"
+                  },
+                  "7": {
+                    "hex": "#090909"
+                  },
+                  "70": {
+                    "hex": "#090909"
+                  },
+                  "71": {
+                    "hex": "#090909"
+                  },
+                  "72": {
+                    "hex": "#090909"
+                  },
+                  "73": {
+                    "hex": "#090909"
+                  },
+                  "74": {
+                    "hex": "#090909"
+                  },
+                  "75": {
+                    "hex": "#090909"
+                  },
+                  "76": {
+                    "hex": "#090909"
+                  },
+                  "77": {
+                    "hex": "#090909"
+                  },
+                  "78": {
+                    "hex": "#090909"
+                  },
+                  "79": {
+                    "hex": "#090909"
+                  },
+                  "8": {
+                    "hex": "#090909"
+                  },
+                  "80": {
+                    "hex": "#090909"
+                  },
+                  "81": {
+                    "hex": "#090909"
+                  },
+                  "82": {
+                    "hex": "#090909"
+                  },
+                  "83": {
+                    "hex": "#090909"
+                  },
+                  "84": {
+                    "hex": "#090909"
+                  },
+                  "85": {
+                    "hex": "#090909"
+                  },
+                  "86": {
+                    "hex": "#090909"
+                  },
+                  "87": {
+                    "hex": "#090909"
+                  },
+                  "88": {
+                    "hex": "#090909"
+                  },
+                  "89": {
+                    "hex": "#090909"
+                  },
+                  "9": {
+                    "hex": "#090909"
+                  },
+                  "90": {
+                    "hex": "#090909"
+                  },
+                  "91": {
+                    "hex": "#090909"
+                  },
+                  "92": {
+                    "hex": "#090909"
+                  },
+                  "93": {
+                    "hex": "#090909"
+                  },
+                  "94": {
+                    "hex": "#090909"
+                  },
+                  "95": {
+                    "hex": "#090909"
+                  },
+                  "96": {
+                    "hex": "#090909"
+                  },
+                  "97": {
+                    "hex": "#090909"
+                  },
+                  "98": {
+                    "hex": "#090909"
+                  },
+                  "99": {
+                    "hex": "#090909"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "7": {
+        "curveType": "LINEAR",
+        "length": 8,
+        "lightingSlots": {
+          "infoMap": {
+            "PERKEY_BRANDING": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "0": {
+                    "hex": "#ffffff"
+                  },
+                  "1": {
+                    "hex": "#090909"
+                  },
+                  "2": {
+                    "hex": "#090909"
+                  }
+                }
+              }
+            },
+            "PERKEY_CONSUMER": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "0": {
+                    "hex": "#ffffff"
+                  },
+                  "181": {
+                    "hex": "#090909"
+                  },
+                  "182": {
+                    "hex": "#090909"
+                  },
+                  "183": {
+                    "hex": "#090909"
+                  },
+                  "205": {
+                    "hex": "#090909"
+                  },
+                  "226": {
+                    "hex": "#090909"
+                  }
+                }
+              }
+            },
+            "PERKEY_GKEY": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "0": {
+                    "hex": "#ffffff"
+                  },
+                  "1": {
+                    "hex": "#090909"
+                  },
+                  "2": {
+                    "hex": "#090909"
+                  },
+                  "3": {
+                    "hex": "#090909"
+                  },
+                  "4": {
+                    "hex": "#090909"
+                  },
+                  "5": {
+                    "hex": "#090909"
+                  },
+                  "6": {
+                    "hex": "#090909"
+                  },
+                  "7": {
+                    "hex": "#090909"
+                  },
+                  "8": {
+                    "hex": "#090909"
+                  },
+                  "9": {
+                    "hex": "#090909"
+                  }
+                }
+              }
+            },
+            "PERKEY_INDICATOR": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "0": {
+                    "hex": "#ffffff"
+                  },
+                  "1": {
+                    "hex": "#090909"
+                  },
+                  "2": {
+                    "hex": "#090909"
+                  },
+                  "3": {
+                    "hex": "#090909"
+                  },
+                  "4": {
+                    "hex": "#090909"
+                  },
+                  "5": {
+                    "hex": "#090909"
+                  }
+                }
+              }
+            },
+            "PERKEY_KEYBOARD": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "0": {
+                    "hex": "#ffffff"
+                  },
+                  "10": {
+                    "hex": "#090909"
+                  },
+                  "100": {
+                    "hex": "#090909"
+                  },
+                  "101": {
+                    "hex": "#090909"
+                  },
+                  "11": {
+                    "hex": "#090909"
+                  },
+                  "12": {
+                    "hex": "#090909"
+                  },
+                  "13": {
+                    "hex": "#090909"
+                  },
+                  "135": {
+                    "hex": "#090909"
+                  },
+                  "136": {
+                    "hex": "#090909"
+                  },
+                  "137": {
+                    "hex": "#090909"
+                  },
+                  "138": {
+                    "hex": "#090909"
+                  },
+                  "139": {
+                    "hex": "#090909"
+                  },
+                  "14": {
+                    "hex": "#090909"
+                  },
+                  "15": {
+                    "hex": "#090909"
+                  },
+                  "16": {
+                    "hex": "#090909"
+                  },
+                  "17": {
+                    "hex": "#090909"
+                  },
+                  "18": {
+                    "hex": "#090909"
+                  },
+                  "19": {
+                    "hex": "#090909"
+                  },
+                  "20": {
+                    "hex": "#090909"
+                  },
+                  "21": {
+                    "hex": "#090909"
+                  },
+                  "22": {
+                    "hex": "#090909"
+                  },
+                  "224": {
+                    "hex": "#090909"
+                  },
+                  "225": {
+                    "hex": "#090909"
+                  },
+                  "226": {
+                    "hex": "#090909"
+                  },
+                  "227": {
+                    "hex": "#090909"
+                  },
+                  "228": {
+                    "hex": "#090909"
+                  },
+                  "229": {
+                    "hex": "#090909"
+                  },
+                  "23": {
+                    "hex": "#090909"
+                  },
+                  "230": {
+                    "hex": "#090909"
+                  },
+                  "231": {
+                    "hex": "#090909"
+                  },
+                  "24": {
+                    "hex": "#090909"
+                  },
+                  "25": {
+                    "hex": "#090909"
+                  },
+                  "26": {
+                    "hex": "#090909"
+                  },
+                  "27": {
+                    "hex": "#090909"
+                  },
+                  "28": {
+                    "hex": "#090909"
+                  },
+                  "29": {
+                    "hex": "#090909"
+                  },
+                  "30": {
+                    "hex": "#090909"
+                  },
+                  "31": {
+                    "hex": "#090909"
+                  },
+                  "32": {
+                    "hex": "#090909"
+                  },
+                  "33": {
+                    "hex": "#090909"
+                  },
+                  "34": {
+                    "hex": "#090909"
+                  },
+                  "35": {
+                    "hex": "#090909"
+                  },
+                  "36": {
+                    "hex": "#090909"
+                  },
+                  "37": {
+                    "hex": "#090909"
+                  },
+                  "38": {
+                    "hex": "#090909"
+                  },
+                  "39": {
+                    "hex": "#090909"
+                  },
+                  "4": {
+                    "hex": "#090909"
+                  },
+                  "40": {
+                    "hex": "#090909"
+                  },
+                  "41": {
+                    "hex": "#090909"
+                  },
+                  "42": {
+                    "hex": "#090909"
+                  },
+                  "43": {
+                    "hex": "#090909"
+                  },
+                  "44": {
+                    "hex": "#090909"
+                  },
+                  "45": {
+                    "hex": "#090909"
+                  },
+                  "46": {
+                    "hex": "#090909"
+                  },
+                  "47": {
+                    "hex": "#090909"
+                  },
+                  "48": {
+                    "hex": "#090909"
+                  },
+                  "49": {
+                    "hex": "#090909"
+                  },
+                  "5": {
+                    "hex": "#090909"
+                  },
+                  "50": {
+                    "hex": "#090909"
+                  },
+                  "51": {
+                    "hex": "#090909"
+                  },
+                  "52": {
+                    "hex": "#090909"
+                  },
+                  "53": {
+                    "hex": "#090909"
+                  },
+                  "54": {
+                    "hex": "#090909"
+                  },
+                  "55": {
+                    "hex": "#090909"
+                  },
+                  "56": {
+                    "hex": "#090909"
+                  },
+                  "57": {
+                    "hex": "#090909"
+                  },
+                  "58": {
+                    "hex": "#090909"
+                  },
+                  "59": {
+                    "hex": "#090909"
+                  },
+                  "6": {
+                    "hex": "#090909"
+                  },
+                  "60": {
+                    "hex": "#090909"
+                  },
+                  "61": {
+                    "hex": "#090909"
+                  },
+                  "62": {
+                    "hex": "#090909"
+                  },
+                  "63": {
+                    "hex": "#090909"
+                  },
+                  "64": {
+                    "hex": "#090909"
+                  },
+                  "65": {
+                    "hex": "#090909"
+                  },
+                  "66": {
+                    "hex": "#090909"
+                  },
+                  "67": {
+                    "hex": "#090909"
+                  },
+                  "68": {
+                    "hex": "#090909"
+                  },
+                  "69": {
+                    "hex": "#090909"
+                  },
+                  "7": {
+                    "hex": "#090909"
+                  },
+                  "70": {
+                    "hex": "#090909"
+                  },
+                  "71": {
+                    "hex": "#090909"
+                  },
+                  "72": {
+                    "hex": "#090909"
+                  },
+                  "73": {
+                    "hex": "#090909"
+                  },
+                  "74": {
+                    "hex": "#090909"
+                  },
+                  "75": {
+                    "hex": "#090909"
+                  },
+                  "76": {
+                    "hex": "#090909"
+                  },
+                  "77": {
+                    "hex": "#090909"
+                  },
+                  "78": {
+                    "hex": "#090909"
+                  },
+                  "79": {
+                    "hex": "#090909"
+                  },
+                  "8": {
+                    "hex": "#090909"
+                  },
+                  "80": {
+                    "hex": "#090909"
+                  },
+                  "81": {
+                    "hex": "#090909"
+                  },
+                  "82": {
+                    "hex": "#090909"
+                  },
+                  "83": {
+                    "hex": "#090909"
+                  },
+                  "84": {
+                    "hex": "#090909"
+                  },
+                  "85": {
+                    "hex": "#090909"
+                  },
+                  "86": {
+                    "hex": "#090909"
+                  },
+                  "87": {
+                    "hex": "#090909"
+                  },
+                  "88": {
+                    "hex": "#090909"
+                  },
+                  "89": {
+                    "hex": "#090909"
+                  },
+                  "9": {
+                    "hex": "#090909"
+                  },
+                  "90": {
+                    "hex": "#090909"
+                  },
+                  "91": {
+                    "hex": "#090909"
+                  },
+                  "92": {
+                    "hex": "#090909"
+                  },
+                  "93": {
+                    "hex": "#090909"
+                  },
+                  "94": {
+                    "hex": "#090909"
+                  },
+                  "95": {
+                    "hex": "#090909"
+                  },
+                  "96": {
+                    "hex": "#090909"
+                  },
+                  "97": {
+                    "hex": "#090909"
+                  },
+                  "98": {
+                    "hex": "#090909"
+                  },
+                  "99": {
+                    "hex": "#090909"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "speed": 100
+  }
+}

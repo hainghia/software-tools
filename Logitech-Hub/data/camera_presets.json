@@ -1,0 +1,92 @@
+{
+  "cards": [
+    {
+      "id": "570d3eeb-abcf-451d-0000-9d65f64ce5a0",
+      "name": "STREAMING",
+      "attribute": "CAMERA_SETTINGS",
+      "applicationId": "",
+      "profileId": "",
+      "readOnly": true,
+      "category": "",
+      "cameraSettings": {
+        "priority": "FRAME_RATE",
+        "hdr": true,
+        "fov": 78,
+        "pan": {
+          "value": 0,
+          "mode": "MANUAL"
+        },
+        "tilt": {
+          "value": 0,
+          "mode": "MANUAL"
+        },
+        "roll": {
+          "value": 0,
+          "mode": "MANUAL"
+        },
+        "zoom": {
+          "value": 100,
+          "mode": "MANUAL"
+        },
+        "exposure": {
+          "value": -5,
+          "mode": "AUTO"
+        },
+        "iris": {
+          "value": 0,
+          "mode": "MANUAL"
+        },
+        "focus": {
+          "value": 0,
+          "mode": "AUTO"
+        },
+        "audioMode": "STEREO",
+        "stabilization": false
+      }
+    },
+    {
+      "id": "74f97c2b-9839-4dea-0000-a55d5448ae62",
+      "name": "VIDEO_CALL",
+      "attribute": "CAMERA_SETTINGS",
+      "applicationId": "",
+      "profileId": "",
+      "readOnly": true,
+      "category": "",
+      "cameraSettings": {
+        "priority": "EXPOSURE",
+        "hdr": true,
+        "fov": 90,
+        "pan": {
+          "value": 0,
+          "mode": "MANUAL"
+        },
+        "tilt": {
+          "value": 0,
+          "mode": "MANUAL"
+        },
+        "roll": {
+          "value": 0,
+          "mode": "MANUAL"
+        },
+        "zoom": {
+          "value": 100,
+          "mode": "MANUAL"
+        },
+        "exposure": {
+          "value": -5,
+          "mode": "AUTO"
+        },
+        "iris": {
+          "value": 0,
+          "mode": "MANUAL"
+        },
+        "focus": {
+          "value": 0,
+          "mode": "AUTO"
+        },
+        "audioMode": "MONO",
+        "stabilization": false
+      }
+    }
+  ]
+}

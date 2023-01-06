@@ -1,0 +1,58 @@
+{
+  "cards": [
+    {
+      "attribute": "CENTURION_EQUALIZER",
+      "centurionEqualizer": {
+        "deviceType": "HEADSET",
+        "gains": [
+          2,
+          2,
+          0,
+          4,
+          1
+        ],
+        "name": "EQUALIZER_FPS",
+        "type": "CENTURION"
+      },
+      "id": "61fba25f-d535-4183-86d9-8ed4ab0278dd",
+      "name": "EQUALIZER_FPS",
+      "readOnly": true
+    },
+    {
+      "attribute": "CENTURION_EQUALIZER",
+      "centurionEqualizer": {
+        "deviceType": "HEADSET",
+        "gains": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "name": "EQUALIZER_FLAT",
+        "type": "CENTURION"
+      },
+      "id": "123e0346-e78a-43e0-b81c-55d24f267f5c",
+      "name": "EQUALIZER_FLAT",
+      "readOnly": true
+    },
+    {
+      "attribute": "CENTURION_EQUALIZER",
+      "centurionEqualizer": {
+        "deviceType": "HEADSET",
+        "gains": [
+          0,
+          -2,
+          3,
+          3,
+          3
+        ],
+        "name": "EQUALIZER_MOBA",
+        "type": "CENTURION"
+      },
+      "id": "b2c8ab8c-8366-4905-9f1c-b4ed12d31326",
+      "name": "EQUALIZER_MOBA",
+      "readOnly": true
+    }
+  ]
+}

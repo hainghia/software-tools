@@ -1,0 +1,196 @@
+{
+  "cards": [
+    {
+      "id": "5ddce669-57c3-40f6-0000-f2aabe64dbd5",
+      "name": "ZOMBIE",
+      "attribute": "VIDEO_SETTINGS",
+      "applicationId": "",
+      "profileId": "",
+      "readOnly": true,
+      "category": "",
+      "videoSettings": {
+        "antiFlicker": 60,
+        "brightness": {
+          "value": 95,
+          "mode": "MANUAL"
+        },
+        "contrast": {
+          "value": 80,
+          "mode": "MANUAL"
+        },
+        "hue": {
+          "value": 50,
+          "mode": "MANUAL"
+        },
+        "saturation": {
+          "value": 128,
+          "mode": "MANUAL"
+        },
+        "sharpness": {
+          "value": 128,
+          "mode": "MANUAL"
+        },
+        "gamma": {
+          "value": 0,
+          "mode": "MANUAL"
+        },
+        "color": {
+          "value": 0,
+          "mode": "MANUAL"
+        },
+        "whiteBalance": {
+          "value": 4280,
+          "mode": "AUTO"
+        },
+        "gain": {
+          "value": 128,
+          "mode": "MANUAL"
+        }
+      }
+    },
+    {
+      "id": "1068c6e4-4ebd-4906-0000-0e1b022eee71",
+      "name": "CARTOON",
+      "attribute": "VIDEO_SETTINGS",
+      "applicationId": "",
+      "profileId": "",
+      "readOnly": true,
+      "category": "",
+      "videoSettings": {
+        "antiFlicker": 60,
+        "brightness": {
+          "value": 128,
+          "mode": "MANUAL"
+        },
+        "contrast": {
+          "value": 160,
+          "mode": "MANUAL"
+        },
+        "hue": {
+          "value": 50,
+          "mode": "MANUAL"
+        },
+        "saturation": {
+          "value": 255,
+          "mode": "MANUAL"
+        },
+        "sharpness": {
+          "value": 0,
+          "mode": "MANUAL"
+        },
+        "gamma": {
+          "value": 0,
+          "mode": "MANUAL"
+        },
+        "color": {
+          "value": 0,
+          "mode": "MANUAL"
+        },
+        "whiteBalance": {
+          "value": 4290,
+          "mode": "AUTO"
+        },
+        "gain": {
+          "value": 128,
+          "mode": "MANUAL"
+        }
+      }
+    },
+    {
+      "id": "6fc5b9d8-957b-430f-0000-2b020a2fd6fa",
+      "name": "BLACK_AND_WHITE",
+      "attribute": "VIDEO_SETTINGS",
+      "applicationId": "",
+      "profileId": "",
+      "readOnly": true,
+      "category": "",
+      "videoSettings": {
+        "antiFlicker": 60,
+        "brightness": {
+          "value": 128,
+          "mode": "MANUAL"
+        },
+        "contrast": {
+          "value": 128,
+          "mode": "MANUAL"
+        },
+        "hue": {
+          "value": 50,
+          "mode": "MANUAL"
+        },
+        "saturation": {
+          "value": 0,
+          "mode": "MANUAL"
+        },
+        "sharpness": {
+          "value": 128,
+          "mode": "MANUAL"
+        },
+        "gamma": {
+          "value": 0,
+          "mode": "MANUAL"
+        },
+        "color": {
+          "value": 0,
+          "mode": "MANUAL"
+        },
+        "whiteBalance": {
+          "value": 4280,
+          "mode": "AUTO"
+        },
+        "gain": {
+          "value": 128,
+          "mode": "MANUAL"
+        }
+      }
+    },
+    {
+      "id": "8ac986e2-36b4-427d-0000-ee0fbf4abf5e",
+      "name": "SICKNESS",
+      "attribute": "VIDEO_SETTINGS",
+      "applicationId": "",
+      "profileId": "",
+      "readOnly": true,
+      "category": "",
+      "videoSettings": {
+        "antiFlicker": 60,
+        "brightness": {
+          "value": 128,
+          "mode": "MANUAL"
+        },
+        "contrast": {
+          "value": 200,
+          "mode": "MANUAL"
+        },
+        "hue": {
+          "value": 50,
+          "mode": "MANUAL"
+        },
+        "saturation": {
+          "value": 65,
+          "mode": "MANUAL"
+        },
+        "sharpness": {
+          "value": 200,
+          "mode": "MANUAL"
+        },
+        "gamma": {
+          "value": 0,
+          "mode": "MANUAL"
+        },
+        "color": {
+          "value": 0,
+          "mode": "MANUAL"
+        },
+        "whiteBalance": {
+          "value": 4290,
+          "mode": "AUTO"
+        },
+        "gain": {
+          "value": 128,
+          "mode": "MANUAL"
+        }
+      }
+    }
+  ]
+}

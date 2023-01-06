@@ -1,0 +1,8 @@
+{
+  "audioVisualizerInfo": {
+    "frequencyDefaultRange": {
+      "start": "LOW_60HZ",
+      "end": "HIGH_6000HZ"
+    }
+  }
+}

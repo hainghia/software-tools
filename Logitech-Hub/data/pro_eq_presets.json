@@ -1,0 +1,175 @@
+{
+  "cards": [
+    {
+      "id": "0487742c-a435-4379-95d6-f0b52fe4e0f8",
+      "name": "PRO_EQUALIZER_DEFAULT",
+      "attribute": "PRO_EQUALIZER",
+      "applicationId": "",
+      "profileId": "",
+      "readOnly": true,
+      "proEqualizer": {
+        "bands": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "type": "PRO",
+        "name": "PRO_EQUALIZER_DEFAULT"
+      }
+    },
+    {
+      "id": "50487783-6987-4160-a2d4-e146f7ac6640",
+      "name": "TSM Bjergsen",
+      "attribute": "PRO_EQUALIZER",
+      "applicationId": "",
+      "profileId": "",
+      "readOnly": true,
+      "category": "",
+      "proEqualizer": {
+        "bands": [
+          2,
+          2,
+          -1,
+          4,
+          4
+        ],
+        "deviceType": "HEADSET",
+        "type": "PRO",
+        "name": "TSM Bjergsen",
+        "tag": "PRO_PRESET"
+      }
+    },
+    {
+      "id": "f2372777-f4eb-4370-97a1-74e7b606fd48",
+      "name": "EQUALIZER_FPS",
+      "attribute": "PRO_EQUALIZER",
+      "applicationId": "",
+      "profileId": "",
+      "readOnly": true,
+      "category": "",
+      "proEqualizer": {
+        "bands": [
+          2,
+          2,
+          0,
+          4,
+          1
+        ],
+        "deviceType": "HEADSET",
+        "type": "PRO",
+        "name": "EQUALIZER_FPS"
+      }
+    },
+    {
+      "id": "9eb2e33c-cf6d-42b6-977a-f8939b65ddab",
+      "name": "TSM Hamlinz",
+      "attribute": "PRO_EQUALIZER",
+      "applicationId": "",
+      "profileId": "",
+      "readOnly": true,
+      "category": "",
+      "proEqualizer": {
+        "bands": [
+          1,
+          1,
+          2,
+          3,
+          -1
+        ],
+        "deviceType": "HEADSET",
+        "type": "PRO",
+        "name": "TSM Hamlinz",
+        "tag": "PRO_PRESET"
+      }
+    },
+    {
+      "id": "5d42a856-1b6f-4c2a-9ab1-be086e53935f",
+      "name": "EQUALIZER_MOBA",
+      "attribute": "PRO_EQUALIZER",
+      "applicationId": "",
+      "profileId": "",
+      "readOnly": true,
+      "category": "",
+      "proEqualizer": {
+        "bands": [
+          0,
+          -2,
+          3,
+          3,
+          3
+        ],
+        "deviceType": "HEADSET",
+        "type": "PRO",
+        "name": "EQUALIZER_MOBA"
+      }
+    },
+    {
+      "id": "aa1e0f3d-d5d1-42e3-ad24-0193e27f4416",
+      "name": "TSM Myth",
+      "attribute": "PRO_EQUALIZER",
+      "applicationId": "",
+      "profileId": "",
+      "readOnly": true,
+      "category": "",
+      "proEqualizer": {
+        "bands": [
+          3,
+          1,
+          2,
+          3,
+          2
+        ],
+        "deviceType": "HEADSET",
+        "type": "PRO",
+        "name": "TSM Myth",
+        "tag": "PRO_PRESET"
+      }
+    },
+    {
+      "id": "1f380829-db70-438e-adb6-54c46b95c4aa",
+      "name": "London Spitfire Profit",
+      "attribute": "PRO_EQUALIZER",
+      "applicationId": "",
+      "profileId": "",
+      "readOnly": true,
+      "category": "",
+      "proEqualizer": {
+        "bands": [
+          -2,
+          -1,
+          1,
+          2,
+          3
+        ],
+        "deviceType": "HEADSET",
+        "type": "PRO",
+        "name": "London Spitfire Profit",
+        "tag": "PRO_PRESET"
+      }
+    },
+    {
+      "id": "b4bdd01f-a3a8-4163-817e-43808ffbf4bf",
+      "name": "G2 shox",
+      "attribute": "PRO_EQUALIZER",
+      "applicationId": "",
+      "profileId": "",
+      "readOnly": true,
+      "category": "",
+      "proEqualizer": {
+        "bands": [
+          1,
+          -1,
+          -2,
+          1,
+          2
+        ],
+        "deviceType": "HEADSET",
+        "type": "PRO",
+        "name": "G2 shox",
+        "tag": "PRO_PRESET"
+      }
+    }
+  ]
+}

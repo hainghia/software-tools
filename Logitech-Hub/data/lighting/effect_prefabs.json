@@ -1,0 +1,334 @@
+{
+  "list": [
+    {
+      "name": "SOLID",
+      "id": "37dd7c07-8ad3-44da-b88e-8d368872c9c8",
+      "type": "SOLID",
+      "deviceSupport": [
+        "MOUSE_MONO_ZONAL",
+        "MOUSE_RGB_ZONAL",
+        "KEYBOARD_MONO_ZONAL",
+        "KEYBOARD_RGB_ZONAL",
+        "KEYBOARD_MONO_PER_KEY",
+        "KEYBOARD_RGB_PER_KEY",
+        "HEADSET_RGB_ZONAL",
+        "HEADSET_RGB_PER_KEY",
+        "SPEAKER_RGB_ZONAL",
+        "GAMEBOARD_RGB_ZONAL",
+        "MOUSEPAD_RGB_ZONAL"
+      ],
+      "readOnly": true
+    },
+    {
+      "name": "COLOR_CYCLE",
+      "id": "63cab8b1-108a-4869-8b52-0268ae927c4c",
+      "type": "COLOR_CYCLE",
+      "deviceSupport": [
+        "MOUSE_MONO_ZONAL",
+        "MOUSE_RGB_ZONAL",
+        "KEYBOARD_MONO_ZONAL",
+        "KEYBOARD_RGB_ZONAL",
+        "KEYBOARD_MONO_PER_KEY",
+        "KEYBOARD_RGB_PER_KEY",
+        "HEADSET_RGB_ZONAL",
+        "HEADSET_RGB_PER_KEY",
+        "SPEAKER_RGB_ZONAL",
+        "GAMEBOARD_RGB_ZONAL",
+        "MOUSEPAD_RGB_ZONAL"
+      ],
+      "readOnly": true
+    },
+    {
+      "name": "STARLIGHT",
+      "id": "a584cde8-fe14-4d9d-a4f2-3345ea0379bf",
+      "type": "STARLIGHT",
+      "deviceSupport": [
+        "MOUSE_MONO_ZONAL",
+        "MOUSE_RGB_ZONAL",
+        "KEYBOARD_MONO_ZONAL",
+        "KEYBOARD_RGB_ZONAL",
+        "KEYBOARD_MONO_PER_KEY",
+        "KEYBOARD_RGB_PER_KEY",
+        "HEADSET_RGB_ZONAL",
+        "SPEAKER_RGB_ZONAL",
+        "GAMEBOARD_RGB_ZONAL",
+        "MOUSEPAD_RGB_ZONAL"
+      ],
+      "readOnly": true
+    },
+    {
+      "name": "ECHO_PRESS",
+      "id": "d0ec9cc2-1c00-4b5a-98d3-5199636494d3",
+      "type": "ECHO_PRESS",
+      "deviceSupport": [
+        "MOUSE_MONO_ZONAL",
+        "MOUSE_RGB_ZONAL",
+        "KEYBOARD_MONO_ZONAL",
+        "KEYBOARD_RGB_ZONAL",
+        "KEYBOARD_MONO_PER_KEY",
+        "KEYBOARD_RGB_PER_KEY",
+        "MOUSEPAD_RGB_ZONAL"
+      ],
+      "readOnly": true
+    },
+    {
+      "name": "COMMAND",
+      "id": "47091a66-0ceb-4650-ba60-5fbe2d069ff2",
+      "type": "COMMAND",
+      "deviceSupport": [
+        "KEYBOARD_RGB_PER_KEY"
+      ],
+      "readOnly": true
+    },
+    {
+      "name": "SCREEN_SAMPLER",
+      "id": "8423af3a-fb0a-4a4b-a192-09b9b46d6a82",
+      "type": "SCREEN_SAMPLER",
+      "deviceSupport": [
+        "MOUSE_RGB_ZONAL",
+        "MOUSEPAD_RGB_ZONAL",
+        "SPEAKER_RGB_ZONAL",
+        "GAMEBOARD_RGB_ZONAL",
+        "HEADSET_RGB_ZONAL"
+      ],
+      "readOnly": true,
+      "infoPath": "screen_sampler.json"
+    },
+    {
+      "name": "SCREEN_SAMPLER",
+      "id": "03536ce4-8627-4d63-abfa-44b5411a2762",
+      "type": "SCREEN_SAMPLER",
+      "deviceSupport": [
+        "MOUSE_RGB_PER_KEY",
+        "HEADSET_RGB_PER_KEY"
+      ],
+      "readOnly": true,
+      "infoPath": "screen_sampler-mrpk.json"
+    },
+    {
+      "name": "SCREEN_SAMPLER",
+      "id": "974db653-9c99-4d9c-b24c-25aaed571fb5",
+      "type": "SCREEN_SAMPLER",
+      "deviceSupport": [
+        "KEYBOARD_RGB_PER_KEY",
+        "KEYBOARD_RGB_ZONAL"
+      ],
+      "readOnly": true,
+      "infoPath": "screen_sampler-kb.json"
+    },
+    {
+      "name": "Verticool",
+      "id": "d7c65a90-c02c-11e7-abc4-cec278b6b50a",
+      "type": "KEYFRAME",
+      "deviceSupport": [
+        "KEYBOARD_RGB_PER_KEY"
+      ],
+      "readOnly": true,
+      "infoPath": "verticool.json"
+    },
+    {
+      "name": "Verticool",
+      "id": "e887c17b-df79-46b0-bdcc-0b5cd0246de6",
+      "type": "KEYFRAME",
+      "deviceSupport": [
+        "MOUSE_RGB_PER_KEY",
+        "HEADSET_RGB_PER_KEY"
+      ],
+      "readOnly": true,
+      "infoPath": "mouse-verticool.json"
+    },
+    {
+      "name": "Red White and Blue",
+      "id": "1d4147f6-c02d-11e7-abc4-cec278b6b50a",
+      "type": "KEYFRAME",
+      "deviceSupport": [
+        "KEYBOARD_RGB_PER_KEY"
+      ],
+      "readOnly": true,
+      "infoPath": "redwhiteblue.json"
+    },
+    {
+      "name": "Red White and Blue",
+      "id": "e49b8cd3-a012-4834-a720-2c4c94230b32",
+      "type": "KEYFRAME",
+      "deviceSupport": [
+        "MOUSE_RGB_PER_KEY"
+      ],
+      "readOnly": true,
+      "infoPath": "mouse-redwhiteblue.json"
+    },
+    {
+      "name": "Red White and Blue",
+      "id": "ecc2aa0a-b7e7-48e3-8a65-cb4744d8d693",
+      "type": "KEYFRAME",
+      "deviceSupport": [
+        "HEADSET_RGB_PER_KEY"
+      ],
+      "readOnly": true,
+      "default": true,
+      "infoPath": "mouse-redwhiteblue.json"
+    },
+    {
+      "name": "Contrastic",
+      "id": "cfe732ff-5ec7-4987-b826-e651bc1027e7",
+      "type": "KEYFRAME",
+      "deviceSupport": [
+        "KEYBOARD_RGB_PER_KEY"
+      ],
+      "readOnly": true,
+      "default": true,
+      "infoPath": "contrastic.json"
+    },
+    {
+      "name": "Ocean Wave",
+      "id": "f1108527-cdae-4f5a-aab0-a01fea776c84",
+      "type": "KEYFRAME",
+      "deviceSupport": [
+        "KEYBOARD_RGB_PER_KEY"
+      ],
+      "readOnly": true,
+      "infoPath": "oceanwave.json"
+    },
+    {
+      "name": "Ocean Wave",
+      "id": "80bb62f0-61c5-49b6-88af-b5cdaa03eef1",
+      "type": "KEYFRAME",
+      "deviceSupport": [
+        "MOUSE_RGB_PER_KEY"
+      ],
+      "readOnly": true,
+      "default": true,
+      "infoPath": "mouse-oceanwave.json"
+    },
+    {
+      "name": "Lightning",
+      "id": "6682fafd-8593-42f2-91ab-a8c6bb5bfe98",
+      "type": "KEYFRAME",
+      "deviceSupport": [
+        "KEYBOARD_RGB_PER_KEY"
+      ],
+      "readOnly": true,
+      "infoPath": "lightning.json"
+    },
+    {
+      "name": "Contrastic",
+      "id": "6197a3de-b543-4e1a-9592-48cfec48d3bf",
+      "type": "KEYFRAME",
+      "deviceSupport": [
+        "KEYBOARD_MONO_PER_KEY"
+      ],
+      "readOnly": true,
+      "default": true,
+      "infoPath": "mono-contrastic.json"
+    },
+    {
+      "name": "Verticool",
+      "id": "bfe78634-77c9-4305-a1e6-9cda7a66663f",
+      "type": "KEYFRAME",
+      "deviceSupport": [
+        "KEYBOARD_MONO_PER_KEY"
+      ],
+      "readOnly": true,
+      "infoPath": "mono-verticool.json"
+    },
+    {
+      "name": "Audio Visualizer Keyboard PerKey",
+      "id": "c91ff34e-f1fb-4329-9106-a9a2c4111645",
+      "type": "AUDIO_VISUALIZER",
+      "deviceSupport": [
+        "KEYBOARD_MONO_PER_KEY",
+        "KEYBOARD_RGB_PER_KEY"
+      ],
+      "readOnly": true,
+      "infoPath": "audio-visualizer-kb-per-key.json"
+    },
+    {
+      "name": "Audio Visualizer Keyboard Zonal",
+      "id": "3c0f3163-9eed-4a1c-a9ce-853ac0037815",
+      "type": "AUDIO_VISUALIZER",
+      "deviceSupport": [
+        "KEYBOARD_RGB_ZONAL"
+      ],
+      "readOnly": true,
+      "infoPath": "audio-visualizer-kb-zonal.json"
+    },
+    {
+      "name": "Audio Visualizer Generic",
+      "id": "c03e6328-0a89-406e-98c8-8bc771b5ac87",
+      "type": "AUDIO_VISUALIZER",
+      "deviceSupport": [
+        "MOUSE_RGB_ZONAL",
+        "HEADSET_RGB_ZONAL",
+        "SPEAKER_RGB_ZONAL",
+        "GAMEBOARD_RGB_ZONAL",
+        "MOUSEPAD_RGB_ZONAL",
+        "KEYBOARD_MONO_ZONAL",
+        "MOUSE_MONO_ZONAL"
+      ],
+      "readOnly": true,
+      "infoPath": "audio-visualizer-generic.json"
+    },
+    {
+      "name": "Audio Visualizer Mouse Per Key",
+      "id": "c03e6328-0a89-406e-98c8-8bc771b5ac89",
+      "type": "AUDIO_VISUALIZER",
+      "deviceSupport": [
+        "MOUSE_RGB_PER_KEY",
+        "HEADSET_RGB_PER_KEY"
+      ],
+      "readOnly": true,
+      "infoPath": "audio-visualizer-mouse-rgb-per-key.json"
+    },
+    {
+      "name": "Legacy SDK",
+      "id": "CFC9CCD2-015B-4E16-BE45-8B1A73E2DB2F",
+      "type": "LEGACY_SDK",
+      "deviceSupport": [
+        "MOUSE_MONO_ZONAL",
+        "MOUSE_RGB_ZONAL",
+        "KEYBOARD_MONO_ZONAL",
+        "KEYBOARD_RGB_ZONAL",
+        "KEYBOARD_MONO_PER_KEY",
+        "KEYBOARD_RGB_PER_KEY",
+        "HEADSET_RGB_ZONAL",
+        "HEADSET_RGB_PER_KEY",
+        "SPEAKER_RGB_ZONAL",
+        "GAMEBOARD_RGB_ZONAL",
+        "MOUSEPAD_RGB_ZONAL",
+        "MOUSE_RGB_PER_KEY"
+      ],
+      "readOnly": true
+    },
+    {
+      "name": "Macro Lighting",
+      "id": "A567F2BE-D96C-DF6B-D4FC-BA742FEDA3D4",
+      "type": "QUICK_MACRO_RECORDING",
+      "deviceSupport": [
+        "KEYBOARD_RGB_PER_KEY"
+      ],
+      "readOnly": true
+    },
+    {
+      "name": "SMOOTH_STAR",
+      "id": "86ac6bd9-c4db-45ed-ae51-af5bdb1736dd",
+      "type": "SMOOTH_STAR",
+      "deviceSupport": [
+        "MOUSE_RGB_PER_KEY",
+        "KEYBOARD_RGB_PER_KEY",
+        "HEADSET_RGB_PER_KEY"
+      ],
+      "readOnly": true
+    },
+    {
+      "name": "SMOOTH_WAVE",
+      "id": "39871789-5746-4fe2-8004-e4a526abc836",
+      "type": "SMOOTH_WAVE",
+      "deviceSupport": [
+        "MOUSE_RGB_PER_KEY",
+        "KEYBOARD_RGB_PER_KEY",
+        "HEADSET_RGB_PER_KEY"
+      ],
+      "readOnly": true
+    }
+  ]
+}

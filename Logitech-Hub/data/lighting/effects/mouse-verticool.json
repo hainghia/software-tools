@@ -1,0 +1,119 @@
+{
+  "keyframeInfo": {
+    "direction": "BOUNCE",
+    "keyframeMap": {
+      "0": {
+        "length": 5,
+        "lightingSlots": {
+          "infoMap": {
+            "PERKEY_COSMETIC": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "1": {
+                    "hex": "#00ff00"
+                  },
+                  "2": {
+                    "hex": "#00ff00"
+                  },
+                  "3": {
+                    "hex": "#00ff00"
+                  },
+                  "4": {
+                    "hex": "#00ff00"
+                  },
+                  "5": {
+                    "hex": "#00ff00"
+                  },
+                  "6": {
+                    "hex": "#00ff00"
+                  },
+                  "7": {
+                    "hex": "#00ff00"
+                  },
+                  "8": {
+                    "hex": "#00ff00"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "1": {
+        "length": 5,
+        "lightingSlots": {
+          "infoMap": {
+            "PERKEY_COSMETIC": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "1": {
+                    "hex": "#00ff00"
+                  },
+                  "2": {
+                    "hex": "#8000ff"
+                  },
+                  "3": {
+                    "hex": "#00ff00"
+                  },
+                  "4": {
+                    "hex": "#00ff00"
+                  },
+                  "5": {
+                    "hex": "#00ff00"
+                  },
+                  "6": {
+                    "hex": "#8000ff"
+                  },
+                  "7": {
+                    "hex": "#8000ff"
+                  },
+                  "8": {
+                    "hex": "#8000ff"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "2": {
+        "length": 5,
+        "lightingSlots": {
+          "infoMap": {
+            "PERKEY_COSMETIC": {
+              "perKeyMap": {
+                "colorCodeMap": {
+                  "1": {
+                    "hex": "#8000ff"
+                  },
+                  "2": {
+                    "hex": "#8000ff"
+                  },
+                  "3": {
+                    "hex": "#8000ff"
+                  },
+                  "4": {
+                    "hex": "#8000ff"
+                  },
+                  "5": {
+                    "hex": "#8000ff"
+                  },
+                  "6": {
+                    "hex": "#8000ff"
+                  },
+                  "7": {
+                    "hex": "#8000ff"
+                  },
+                  "8": {
+                    "hex": "#8000ff"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "speed": 200
+  }
+}

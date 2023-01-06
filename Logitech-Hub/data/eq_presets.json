@@ -1,0 +1,381 @@
+{
+  "cards": [
+    {
+      "id": "05525ad1-71a4-45c4-aafa-d56ad1429f32",
+      "name": "EQUALIZER_SIMPLE_DEFAULT_HIDDEN",
+      "attribute": "EQUALIZER",
+      "applicationId": "",
+      "profileId": "",
+      "readOnly": true,
+      "equalizer": {
+        "simple": [
+          0,
+          0
+        ],
+        "advanced": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "type": "SIMPLE",
+        "deviceType": "HEADSET",
+        "name": "DEFAULT"
+      }
+    },
+    {
+      "id": "0c94ec70-b811-4301-853f-e044c119cf97",
+      "name": "EQUALIZER_FLAT",
+      "attribute": "EQUALIZER",
+      "applicationId": "",
+      "profileId": "",
+      "readOnly": true,
+      "equalizer": {
+        "simple": [
+          0,
+          0
+        ],
+        "advanced": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "deviceType": "HEADSET",
+        "type": "ADVANCED",
+        "name": "EQUALIZER_FLAT"
+      }
+    },
+    {
+      "id": "76b7a515-2c3c-4dab-bf65-48fff5318008",
+      "name": "EQUALIZER_FPS",
+      "attribute": "EQUALIZER",
+      "applicationId": "",
+      "profileId": "",
+      "readOnly": true,
+      "equalizer": {
+        "simple": [
+          0,
+          0
+        ],
+        "advanced": [
+          0,
+          0,
+          -0.96,
+          -1.44,
+          3.84,
+          4.56,
+          3.12,
+          3.12,
+          1.92,
+          0.48
+        ],
+        "deviceType": "HEADSET",
+        "type": "ADVANCED",
+        "name": "EQUALIZER_FPS"
+      }
+    },
+    {
+      "id": "617470b0-7712-4f74-8da0-d4ca9283c8fb",
+      "name": "EQUALIZER_MOBA",
+      "attribute": "EQUALIZER",
+      "applicationId": "",
+      "profileId": "",
+      "readOnly": true,
+      "equalizer": {
+        "simple": [
+          0,
+          0
+        ],
+        "advanced": [
+          0,
+          -1.92,
+          -2.4,
+          0,
+          4.32,
+          1.92,
+          3.6,
+          7.68,
+          3.6,
+          0
+        ],
+        "deviceType": "HEADSET",
+        "type": "ADVANCED",
+        "name": "EQUALIZER_MOBA"
+      }
+    },
+    {
+      "id": "4b5147ba-0818-4c77-9dd4-152072c20042",
+      "name": "EQUALIZER_BASS_BOOST",
+      "attribute": "EQUALIZER",
+      "applicationId": "",
+      "profileId": "",
+      "readOnly": true,
+      "equalizer": {
+        "simple": [
+          0,
+          0
+        ],
+        "advanced": [
+          3.6,
+          2.64,
+          1.68,
+          0.96,
+          0.96,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "deviceType": "HEADSET",
+        "type": "ADVANCED",
+        "name": "EQUALIZER_BASS_BOOST"
+      }
+    },
+    {
+      "id": "88615910-55f0-4e5a-88c8-855003ffa87a",
+      "name": "EQUALIZER_CINEMATIC",
+      "attribute": "EQUALIZER",
+      "applicationId": "",
+      "profileId": "",
+      "readOnly": true,
+      "equalizer": {
+        "simple": [
+          0,
+          0
+        ],
+        "advanced": [
+          3.12,
+          2.64,
+          1.92,
+          1.2,
+          1.2,
+          1.92,
+          1.2,
+          0,
+          0,
+          0
+        ],
+        "deviceType": "HEADSET",
+        "type": "ADVANCED",
+        "name": "EQUALIZER_CINEMATIC"
+      }
+    },
+    {
+      "id": "937a09ad-86d3-495c-847a-de859fc59712",
+      "name": "EQUALIZER_COMMUNICATIONS",
+      "attribute": "EQUALIZER",
+      "applicationId": "",
+      "profileId": "",
+      "readOnly": true,
+      "equalizer": {
+        "simple": [
+          0,
+          0
+        ],
+        "advanced": [
+          0,
+          -0.96,
+          -0.96,
+          1.92,
+          3.6,
+          4.32,
+          3.6,
+          3.6,
+          1.68,
+          0.96
+        ],
+        "deviceType": "HEADSET",
+        "type": "ADVANCED",
+        "name": "EQUALIZER_COMMUNICATIONS"
+      }
+    },
+    {
+      "id": "34d14cea-9476-4fa9-aca7-bcdb008952fd",
+      "name": "EQUALIZER_FLAT",
+      "attribute": "EQUALIZER",
+      "applicationId": "",
+      "profileId": "",
+      "readOnly": true,
+      "equalizer": {
+        "simple": [
+          0,
+          0
+        ],
+        "advanced": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "deviceType": "SPEAKER",
+        "type": "ADVANCED",
+        "name": "EQUALIZER_FLAT"
+      }
+    },
+    {
+      "id": "58d82764-0486-4068-a818-68d1cc87e91d",
+      "name": "EQUALIZER_FPS",
+      "attribute": "EQUALIZER",
+      "applicationId": "",
+      "profileId": "",
+      "readOnly": true,
+      "equalizer": {
+        "simple": [
+          0,
+          0
+        ],
+        "advanced": [
+          0,
+          0,
+          -6,
+          -5,
+          -3,
+          -2,
+          -3,
+          -3,
+          -5,
+          -6
+        ],
+        "deviceType": "SPEAKER",
+        "type": "ADVANCED",
+        "name": "EQUALIZER_FPS"
+      }
+    },
+    {
+      "id": "e6b6fdd4-7988-4c2c-8122-3853c3a1b2f4",
+      "name": "EQUALIZER_MOBA",
+      "attribute": "EQUALIZER",
+      "applicationId": "",
+      "profileId": "",
+      "readOnly": true,
+      "equalizer": {
+        "simple": [
+          0,
+          0
+        ],
+        "advanced": [
+          0,
+          -10,
+          -11,
+          0,
+          -2,
+          -5,
+          -3,
+          -17,
+          -3,
+          0
+        ],
+        "deviceType": "SPEAKER",
+        "type": "ADVANCED",
+        "name": "EQUALIZER_MOBA"
+      }
+    },
+    {
+      "id": "fd92f827-4096-4e6c-96b5-b3e7620d1502",
+      "name": "EQUALIZER_BASS_BOOST",
+      "attribute": "EQUALIZER",
+      "applicationId": "",
+      "profileId": "",
+      "readOnly": true,
+      "equalizer": {
+        "simple": [
+          0,
+          0
+        ],
+        "advanced": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          -3,
+          -4,
+          -5,
+          -6,
+          -6
+        ],
+        "deviceType": "SPEAKER",
+        "type": "ADVANCED",
+        "name": "EQUALIZER_BASS_BOOST"
+      }
+    },
+    {
+      "id": "6856912f-c4be-4add-9f9c-56249d566be6",
+      "name": "EQUALIZER_CINEMATIC",
+      "attribute": "EQUALIZER",
+      "applicationId": "",
+      "profileId": "",
+      "readOnly": true,
+      "equalizer": {
+        "simple": [
+          0,
+          0
+        ],
+        "advanced": [
+          -3,
+          -4,
+          -5,
+          -6,
+          -6,
+          -5,
+          -6,
+          0,
+          0,
+          0
+        ],
+        "deviceType": "SPEAKER",
+        "type": "ADVANCED",
+        "name": "EQUALIZER_CINEMATIC"
+      }
+    },
+    {
+      "id": "d27c3937-c03e-4fd5-9871-19c773513060",
+      "name": "EQUALIZER_COMMUNICATIONS",
+      "attribute": "EQUALIZER",
+      "applicationId": "",
+      "profileId": "",
+      "readOnly": true,
+      "equalizer": {
+        "simple": [
+          0,
+          0
+        ],
+        "advanced": [
+          0,
+          -0.96,
+          -0.96,
+          1.92,
+          3.6,
+          4.32,
+          3.6,
+          3.6,
+          1.68,
+          0.96
+        ],
+        "deviceType": "SPEAKER",
+        "type": "ADVANCED",
+        "name": "EQUALIZER_COMMUNICATIONS"
+      }
+    }
+  ]
+}
